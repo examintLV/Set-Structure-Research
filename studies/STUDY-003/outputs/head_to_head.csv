@@ -1,0 +1,10 @@
+pairing,date,tourney,level,round,surface,best_of,score,winner,loser,sets_played,parse_ok,winner_is_first_named
+Filip Cristian Jianu vs Carlos Taberner,2022-09-05,Seville CH,Challenger,R32,Clay,3,6-2 6-3,Carlos Taberner,Filip Cristian Jianu,2,True,False
+Filip Cristian Jianu vs Carlos Taberner,2022-10-10,Gijon,ATP Tour,Q1,Hard,3,7-5 6-7(6) 7-6(5),Carlos Taberner,Filip Cristian Jianu,3,True,False
+Filip Cristian Jianu vs Carlos Taberner,2022-08-08,San Marino CH,Challenger,R16,Clay,3,6-4 6-3,Filip Cristian Jianu,Carlos Taberner,2,True,True
+Matthew William Donald vs Martin Krumich,2023-09-18,M25 Pardubice,ITF $25k,R32,Clay,3,6-1 6-3,Martin Krumich,Matthew William Donald,2,True,False
+Filip Cristian Jianu vs Carlos Taberner,2024-10-07,Valencia CH,Challenger,R32,Clay,3,6-2 7-6(3),Carlos Taberner,Filip Cristian Jianu,2,True,False
+Cyril Vandermeersch vs Alibek Kachmazov,2025-03-10,Cherbourg CH,Challenger,R32,Hard,3,7-5 6-3,Cyril Vandermeersch,Alibek Kachmazov,2,True,True
+Buvaysar Gadamauri vs Adrien Gobat,2025-04-21,M15 Monastir,ITF $15k,R16,Hard,3,6-2 6-4,Buvaysar Gadamauri,Adrien Gobat,2,True,True
+Matthew William Donald vs Martin Krumich,2025-09-22,M25 Pardubice,ITF $25k,QF,Clay,3,7-5 7-5,Martin Krumich,Matthew William Donald,2,True,False
+Matthew William Donald vs Martin Krumich,2026-02-02,Koblenz CH,Challenger,R32,Hard,3,6-4 7-5,Martin Krumich,Matthew William Donald,2,True,False

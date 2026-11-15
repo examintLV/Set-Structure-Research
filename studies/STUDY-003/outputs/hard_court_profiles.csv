@@ -1,0 +1,23 @@
+player,format,n_hard,straight_set_n,straight_set_share,straight_set_ci95,went_distance_n,went_distance_share,went_distance_ci95,intermediate_n,setcount_distribution,set1_won_n,set1_lost_n,matches_with_tiebreak,tb_match_share,sample_flag,NOT_A_PROBABILITY
+Luca Nardi,best-of-3,201,127,63.2%,56.3-69.5%,74,36.8%,30.5-43.7%,0,2sets:127;3sets:74,110,91,56,27.9%,ok,descriptive hard-court history; not a forecast
+Luca Nardi,best-of-5,4,2,50.0%,15.0-85.0%,1,25.0%,4.6-69.9%,1,3sets:2;4sets:1;5sets:1,1,3,2,50.0%,insufficient,descriptive hard-court history; not a forecast
+Milos Karol,best-of-3,117,80,68.4%,59.5-76.1%,37,31.6%,23.9-40.5%,0,2sets:80;3sets:37,62,55,52,44.4%,ok,descriptive hard-court history; not a forecast
+Matthew William Donald,best-of-3,101,77,76.2%,67.1-83.5%,24,23.8%,16.5-32.9%,0,2sets:77;3sets:24,46,55,20,19.8%,ok,descriptive hard-court history; not a forecast
+Martin Krumich,best-of-3,72,48,66.7%,55.2-76.5%,24,33.3%,23.5-44.8%,0,2sets:48;3sets:24,42,30,23,31.9%,ok,descriptive hard-court history; not a forecast
+Cyril Vandermeersch,best-of-3,218,145,66.5%,60.0-72.4%,73,33.5%,27.6-40.0%,0,2sets:145;3sets:73,124,94,50,22.9%,ok,descriptive hard-court history; not a forecast
+Alibek Kachmazov,best-of-3,278,182,65.5%,59.7-70.8%,96,34.5%,29.2-40.3%,0,2sets:182;3sets:96,173,105,72,25.9%,ok,descriptive hard-court history; not a forecast
+Hugo Grenier,best-of-3,524,338,64.5%,60.3-68.5%,186,35.5%,31.5-39.7%,0,2sets:338;3sets:186,305,219,140,26.7%,ok,descriptive hard-court history; not a forecast
+Hugo Grenier,best-of-5,5,0,0.0%,0.0-43.4%,1,20.0%,3.6-62.4%,4,4sets:4;5sets:1,2,3,2,40.0%,insufficient,descriptive hard-court history; not a forecast
+Florent Bax,best-of-3,133,100,75.2%,67.2-81.8%,33,24.8%,18.2-32.8%,0,2sets:100;3sets:33,78,55,26,19.5%,ok,descriptive hard-court history; not a forecast
+Buvaysar Gadamauri,best-of-3,111,74,66.7%,57.5-74.7%,37,33.3%,25.3-42.5%,0,2sets:74;3sets:37,60,51,19,17.1%,ok,descriptive hard-court history; not a forecast
+Adrien Gobat,best-of-3,111,85,76.6%,67.9-83.5%,26,23.4%,16.5-32.1%,0,2sets:85;3sets:26,63,48,29,26.1%,ok,descriptive hard-court history; not a forecast
+Matisse Bobichon,best-of-3,52,39,75.0%,61.8-84.8%,13,25.0%,15.2-38.2%,0,2sets:39;3sets:13,24,28,12,23.1%,ok,descriptive hard-court history; not a forecast
+Ugo Blanchet,best-of-3,192,132,68.8%,61.9-74.9%,60,31.2%,25.1-38.1%,0,2sets:132;3sets:60,110,82,53,27.6%,ok,descriptive hard-court history; not a forecast
+Ugo Blanchet,best-of-5,3,1,33.3%,6.1-79.2%,1,33.3%,6.1-79.2%,1,3sets:1;4sets:1;5sets:1,1,2,2,66.7%,insufficient,descriptive hard-court history; not a forecast
+Alejandro Moro Canas,best-of-3,147,85,57.8%,49.7-65.5%,62,42.2%,34.5-50.3%,0,2sets:85;3sets:62,81,66,45,30.6%,ok,descriptive hard-court history; not a forecast
+Robin Catry,best-of-3,105,67,63.8%,54.3-72.4%,38,36.2%,27.6-45.7%,0,2sets:67;3sets:38,59,46,24,22.9%,ok,descriptive hard-court history; not a forecast
+Lenny Couturier,best-of-3,6,5,83.3%,43.6-97.0%,1,16.7%,3.0-56.4%,0,2sets:5;3sets:1,1,5,2,33.3%,insufficient,descriptive hard-court history; not a forecast
+Jonas Forejtek,best-of-3,136,95,69.9%,61.7-76.9%,41,30.1%,23.1-38.3%,0,2sets:95;3sets:41,77,59,32,23.5%,ok,descriptive hard-court history; not a forecast
+Filip Cristian Jianu,best-of-3,87,61,70.1%,59.8-78.7%,26,29.9%,21.3-40.2%,0,2sets:61;3sets:26,43,44,19,21.8%,ok,descriptive hard-court history; not a forecast
+Carlos Taberner,best-of-3,84,53,63.1%,52.4-72.6%,31,36.9%,27.4-47.6%,0,2sets:53;3sets:31,38,46,28,33.3%,ok,descriptive hard-court history; not a forecast
+Carlos Taberner,best-of-5,3,1,33.3%,6.1-79.2%,1,33.3%,6.1-79.2%,1,3sets:1;4sets:1;5sets:1,1,2,0,0.0%,insufficient,descriptive hard-court history; not a forecast
