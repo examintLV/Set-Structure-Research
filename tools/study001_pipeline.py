@@ -87,8 +87,17 @@ def _detect_status(score: str) -> tuple[str, str]:
     return "completed", s
 
 
-def parse_score(score: str) -> Parsed:
-    """Parse a winner-perspective score string under the frozen grammar."""
+def parse_score(score: str, best_of: int = 3) -> Parsed:
+    """Parse a winner-perspective score string under the frozen grammar.
+
+    `best_of` defaults to 3, preserving STUDY-001's original behaviour exactly
+    (that population is 100% best-of-3). Pass 5 for best-of-5 events.
+
+    Defect fixed 2026-11-15 (STUDY-002, amendment A1): this function previously
+    hardcoded best-of-3 validation, so every best-of-5 match was rejected as
+    unparseable. It never showed in STUDY-001 because that sample contains no
+    best-of-5 matches.
+    """
     if score is None or not str(score).strip():
         return Parsed(False, "unparsed", reason="empty score")
     raw = str(score).strip()
@@ -136,11 +145,13 @@ def parse_score(score: str) -> Parsed:
             # conventional-scoring match: excluded under E5.
             return Parsed(True, status, sets, n_conv, True,
                           reason="match tiebreak present")
-        if not (2 <= n_conv <= 3):
+        needed = (best_of + 1) // 2          # 2 for bo3, 3 for bo5
+        if not (needed <= n_conv <= best_of):
             return Parsed(False, status, sets, n_conv, False,
-                          reason=f"completed match with {n_conv} conventional sets")
-        # structural check: winner must win 2 sets, loser < 2
-        if _set_wins(sets) != (2, n_conv - 2):
+                          reason=(f"completed best-of-{best_of} match with "
+                                  f"{n_conv} conventional sets"))
+        # structural check: winner must win exactly `needed` sets
+        if _set_wins(sets) != (needed, n_conv - needed):
             return Parsed(False, status, sets, n_conv, False,
                           reason=f"set tally {_set_wins(sets)} inconsistent with score")
     return Parsed(True, status, sets, n_conv, has_mtb)

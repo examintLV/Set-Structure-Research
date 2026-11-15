@@ -1,0 +1,22 @@
+player,format,n_completed,straight_set_n,straight_set_share,straight_set_ci95,went_distance_n,went_distance_share,went_distance_ci95,intermediate_n,setcount_distribution,sample_flag,retired_excluded,walkover_excluded,unparsed_excluded,set1_won_n,set1_lost_n,matches_with_tiebreak,tb_match_share,date_min,date_max,source_ids,NOT_A_PROBABILITY
+Aaron Funk,best-of-3,41,26,63.4%,48.1-76.4%,15,36.6%,23.6-51.9%,0,2sets:26;3sets:15,ok,3,0,2,18,23,14,34.1%,2023-08-21,2026-05-25,212630,descriptive history to 2026-06-01; not a forecast
+Adrian Oetzbach,best-of-3,301,207,68.8%,63.3-73.7%,94,31.2%,26.3-36.7%,0,2sets:207;3sets:94,ok,4,0,1,142,159,59,19.6%,2015-10-05,2026-06-01,144907,descriptive history to 2026-06-01; not a forecast
+Arvid Nordquist,best-of-3,113,91,80.5%,72.3-86.8%,22,19.5%,13.2-27.7%,0,2sets:91;3sets:22,ok,11,0,4,53,60,24,21.2%,2016-10-03,2026-05-04,202345,descriptive history to 2026-06-01; not a forecast
+Carlo Alberto Caniato,best-of-3,126,94,74.6%,66.4-81.4%,32,25.4%,18.6-33.6%,0,2sets:94;3sets:32,ok,3,0,0,70,56,37,29.4%,2023-06-19,2026-06-01,212241,descriptive history to 2026-06-01; not a forecast
+Cezar Cretu,best-of-3,387,277,71.6%,66.9-75.8%,110,28.4%,24.2-33.1%,0,2sets:277;3sets:110,ok,14,1,2,240,147,75,19.4%,2018-03-12,2026-06-01,206470,descriptive history to 2026-06-01; not a forecast
+Felix Alopaeus,best-of-3,1,1,100.0%,20.7-100.0%,0,0.0%,0.0-79.3%,0,2sets:1,insufficient,0,0,0,0,1,0,0.0%,2025-08-11,2025-08-11,214053,descriptive history to 2026-06-01; not a forecast
+Iiro Vasa,best-of-3,61,36,59.0%,46.5-70.5%,25,41.0%,29.5-53.5%,0,2sets:36;3sets:25,ok,4,0,0,28,33,15,24.6%,2019-08-19,2026-06-01,209204,descriptive history to 2026-06-01; not a forecast
+Jay Clarke,best-of-3,568,390,68.7%,64.7-72.3%,178,31.3%,27.7-35.3%,0,2sets:390;3sets:178,ok,25,2,1,337,231,132,23.2%,2015-06-01,2026-06-01,126652,descriptive history to 2026-06-01; not a forecast
+Jay Clarke,best-of-5,6,3,50.0%,18.8-81.2%,1,16.7%,3.0-56.4%,2,3sets:3;4sets:2;5sets:1,insufficient,25,2,1,1,5,4,66.7%,2015-06-01,2026-06-01,126652,descriptive history to 2026-06-01; not a forecast
+John Sperle,best-of-3,171,116,67.8%,60.5-74.4%,55,32.2%,25.6-39.5%,0,2sets:116;3sets:55,ok,6,1,3,86,85,38,22.2%,2021-08-16,2026-06-01,210145,descriptive history to 2026-06-01; not a forecast
+Kimmer Coppejans,best-of-3,664,405,61.0%,57.2-64.6%,259,39.0%,35.4-42.8%,0,2sets:405;3sets:259,ok,12,3,3,359,305,140,21.1%,2015-01-05,2026-05-25,106293,descriptive history to 2026-06-01; not a forecast
+Kimmer Coppejans,best-of-5,5,2,40.0%,11.8-76.9%,2,40.0%,11.8-76.9%,1,3sets:2;4sets:1;5sets:2,insufficient,12,3,3,2,3,3,60.0%,2015-01-05,2026-05-25,106293,descriptive history to 2026-06-01; not a forecast
+Luka Mikrut,best-of-3,211,143,67.8%,61.2-73.7%,68,32.2%,26.3-38.8%,0,2sets:143;3sets:68,ok,8,2,0,119,92,50,23.7%,2021-05-17,2026-06-01,210053,descriptive history to 2026-06-01; not a forecast
+Michael Vrbensky,best-of-3,483,330,68.3%,64.0-72.3%,153,31.7%,27.7-36.0%,0,2sets:330;3sets:153,ok,17,3,1,279,204,107,22.2%,2016-10-24,2026-06-01,202398,descriptive history to 2026-06-01; not a forecast
+Moez Echargui,best-of-3,583,374,64.2%,60.2-67.9%,209,35.8%,32.1-39.8%,0,2sets:374;3sets:209,ok,31,5,1,336,247,131,22.5%,2015-07-06,2026-06-01,121411,descriptive history to 2026-06-01; not a forecast
+Oskari Paldanius,best-of-3,34,20,58.8%,42.2-73.6%,14,41.2%,26.4-57.8%,0,2sets:20;3sets:14,ok,0,0,0,13,21,7,20.6%,2024-10-28,2026-06-01,213619,descriptive history to 2026-06-01; not a forecast
+Sebastian Gima,best-of-3,361,255,70.6%,65.7-75.1%,106,29.4%,24.9-34.3%,0,2sets:255;3sets:106,ok,7,1,1,186,175,81,22.4%,2019-07-29,2026-06-01,209142,descriptive history to 2026-06-01; not a forecast
+Sumit Nagal,best-of-3,586,386,65.9%,61.9-69.6%,200,34.1%,30.4-38.1%,0,2sets:386;3sets:200,ok,27,2,0,360,226,112,19.1%,2015-01-05,2026-06-01,111576,descriptive history to 2026-06-01; not a forecast
+Sumit Nagal,best-of-5,10,6,60.0%,31.3-83.2%,0,0.0%,0.0-27.8%,4,3sets:6;4sets:4,caution,27,2,0,4,6,3,30.0%,2015-01-05,2026-06-01,111576,descriptive history to 2026-06-01; not a forecast
+Svyatoslav Gulin,best-of-3,237,160,67.5%,61.3-73.2%,77,32.5%,26.8-38.7%,0,2sets:160;3sets:77,ok,20,0,4,149,88,39,16.5%,2021-12-13,2026-05-25,210425,descriptive history to 2026-06-01; not a forecast
+Vadym Ursu,best-of-3,400,280,70.0%,65.3-74.3%,120,30.0%,25.7-34.7%,0,2sets:280;3sets:120,ok,20,0,2,199,201,63,15.8%,2015-01-05,2026-05-25,134068,descriptive history to 2026-06-01; not a forecast

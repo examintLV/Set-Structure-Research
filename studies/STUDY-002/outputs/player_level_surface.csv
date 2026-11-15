@@ -1,0 +1,131 @@
+player,level_code,level_label,n,share
+Aaron Funk,15,ITF $15k,31,75.6%
+Aaron Funk,25,ITF $25k,10,24.4%
+Aaron Funk,surface:Hard,Hard,22,53.7%
+Aaron Funk,surface:Clay,Clay,14,34.1%
+Aaron Funk,surface:Carpet,Carpet,5,12.2%
+Adrian Oetzbach,15,ITF $15k,193,64.1%
+Adrian Oetzbach,25,ITF $25k,44,14.6%
+Adrian Oetzbach,C,Challenger,35,11.6%
+Adrian Oetzbach,S,ITF/Satellite,29,9.6%
+Adrian Oetzbach,surface:Clay,Clay,187,62.1%
+Adrian Oetzbach,surface:Hard,Hard,103,34.2%
+Adrian Oetzbach,surface:Carpet,Carpet,10,3.3%
+Adrian Oetzbach,surface:Grass,Grass,1,0.3%
+Arvid Nordquist,15,ITF $15k,76,67.3%
+Arvid Nordquist,25,ITF $25k,19,16.8%
+Arvid Nordquist,S,ITF/Satellite,14,12.4%
+Arvid Nordquist,C,Challenger,4,3.5%
+Arvid Nordquist,surface:Hard,Hard,73,64.6%
+Arvid Nordquist,surface:Clay,Clay,40,35.4%
+Carlo Alberto Caniato,15,ITF $15k,62,49.2%
+Carlo Alberto Caniato,C,Challenger,33,26.2%
+Carlo Alberto Caniato,25,ITF $25k,31,24.6%
+Carlo Alberto Caniato,surface:Clay,Clay,94,74.6%
+Carlo Alberto Caniato,surface:Hard,Hard,32,25.4%
+Cezar Cretu,15,ITF $15k,182,47.0%
+Cezar Cretu,25,ITF $25k,100,25.8%
+Cezar Cretu,C,Challenger,88,22.7%
+Cezar Cretu,S,ITF/Satellite,12,3.1%
+Cezar Cretu,D,Davis Cup,3,0.8%
+Cezar Cretu,A,ATP Tour,2,0.5%
+Cezar Cretu,surface:Clay,Clay,334,86.3%
+Cezar Cretu,surface:Hard,Hard,53,13.7%
+Felix Alopaeus,15,ITF $15k,1,100.0%
+Felix Alopaeus,surface:Hard,Hard,1,100.0%
+Iiro Vasa,15,ITF $15k,44,72.1%
+Iiro Vasa,25,ITF $25k,8,13.1%
+Iiro Vasa,C,Challenger,7,11.5%
+Iiro Vasa,S,ITF/Satellite,2,3.3%
+Iiro Vasa,surface:Hard,Hard,38,62.3%
+Iiro Vasa,surface:Clay,Clay,23,37.7%
+Jay Clarke,C,Challenger,288,50.2%
+Jay Clarke,S,ITF/Satellite,111,19.3%
+Jay Clarke,25,ITF $25k,94,16.4%
+Jay Clarke,15,ITF $15k,30,5.2%
+Jay Clarke,G,Grand Slam,25,4.4%
+Jay Clarke,A,ATP Tour,21,3.7%
+Jay Clarke,M,Masters 1000,5,0.9%
+Jay Clarke,surface:Hard,Hard,274,47.7%
+Jay Clarke,surface:Clay,Clay,257,44.8%
+Jay Clarke,surface:Grass,Grass,43,7.5%
+John Sperle,15,ITF $15k,102,59.6%
+John Sperle,25,ITF $25k,35,20.5%
+John Sperle,C,Challenger,34,19.9%
+John Sperle,surface:Clay,Clay,145,84.8%
+John Sperle,surface:Hard,Hard,26,15.2%
+Kimmer Coppejans,C,Challenger,494,73.8%
+Kimmer Coppejans,G,Grand Slam,66,9.9%
+Kimmer Coppejans,A,ATP Tour,38,5.7%
+Kimmer Coppejans,S,ITF/Satellite,31,4.6%
+Kimmer Coppejans,25,ITF $25k,24,3.6%
+Kimmer Coppejans,15,ITF $15k,10,1.5%
+Kimmer Coppejans,D,Davis Cup,5,0.7%
+Kimmer Coppejans,M,Masters 1000,1,0.1%
+Kimmer Coppejans,surface:Clay,Clay,438,65.5%
+Kimmer Coppejans,surface:Hard,Hard,223,33.3%
+Kimmer Coppejans,surface:Grass,Grass,8,1.2%
+Luka Mikrut,C,Challenger,88,41.7%
+Luka Mikrut,15,ITF $15k,87,41.2%
+Luka Mikrut,25,ITF $25k,32,15.2%
+Luka Mikrut,A,ATP Tour,3,1.4%
+Luka Mikrut,G,Grand Slam,1,0.5%
+Luka Mikrut,surface:Clay,Clay,174,82.5%
+Luka Mikrut,surface:Hard,Hard,37,17.5%
+Michael Vrbensky,C,Challenger,199,41.2%
+Michael Vrbensky,S,ITF/Satellite,120,24.8%
+Michael Vrbensky,25,ITF $25k,104,21.5%
+Michael Vrbensky,15,ITF $15k,56,11.6%
+Michael Vrbensky,A,ATP Tour,4,0.8%
+Michael Vrbensky,surface:Clay,Clay,334,69.2%
+Michael Vrbensky,surface:Hard,Hard,134,27.7%
+Michael Vrbensky,surface:Carpet,Carpet,15,3.1%
+Moez Echargui,C,Challenger,192,32.9%
+Moez Echargui,S,ITF/Satellite,167,28.6%
+Moez Echargui,15,ITF $15k,105,18.0%
+Moez Echargui,25,ITF $25k,94,16.1%
+Moez Echargui,D,Davis Cup,9,1.5%
+Moez Echargui,A,ATP Tour,9,1.5%
+Moez Echargui,M,Masters 1000,5,0.9%
+Moez Echargui,O,Olympics,1,0.2%
+Moez Echargui,G,Grand Slam,1,0.2%
+Moez Echargui,surface:Hard,Hard,337,57.8%
+Moez Echargui,surface:Clay,Clay,243,41.7%
+Moez Echargui,surface:unknown,unknown,2,0.3%
+Moez Echargui,surface:Carpet,Carpet,1,0.2%
+Oskari Paldanius,15,ITF $15k,27,79.4%
+Oskari Paldanius,C,Challenger,6,17.6%
+Oskari Paldanius,25,ITF $25k,1,2.9%
+Oskari Paldanius,surface:Hard,Hard,28,82.4%
+Oskari Paldanius,surface:Clay,Clay,6,17.6%
+Sebastian Gima,15,ITF $15k,205,56.8%
+Sebastian Gima,C,Challenger,79,21.9%
+Sebastian Gima,25,ITF $25k,70,19.4%
+Sebastian Gima,S,ITF/Satellite,7,1.9%
+Sebastian Gima,surface:Clay,Clay,268,74.2%
+Sebastian Gima,surface:Hard,Hard,93,25.8%
+Sumit Nagal,C,Challenger,346,58.1%
+Sumit Nagal,S,ITF/Satellite,133,22.3%
+Sumit Nagal,A,ATP Tour,60,10.1%
+Sumit Nagal,G,Grand Slam,30,5.0%
+Sumit Nagal,M,Masters 1000,14,2.3%
+Sumit Nagal,D,Davis Cup,12,2.0%
+Sumit Nagal,O,Olympics,1,0.2%
+Sumit Nagal,surface:Clay,Clay,400,67.1%
+Sumit Nagal,surface:Hard,Hard,193,32.4%
+Sumit Nagal,surface:Grass,Grass,3,0.5%
+Svyatoslav Gulin,15,ITF $15k,128,54.0%
+Svyatoslav Gulin,25,ITF $25k,68,28.7%
+Svyatoslav Gulin,C,Challenger,41,17.3%
+Svyatoslav Gulin,surface:Clay,Clay,203,85.7%
+Svyatoslav Gulin,surface:Hard,Hard,34,14.3%
+Vadym Ursu,S,ITF/Satellite,136,34.0%
+Vadym Ursu,15,ITF $15k,120,30.0%
+Vadym Ursu,C,Challenger,96,24.0%
+Vadym Ursu,25,ITF $25k,44,11.0%
+Vadym Ursu,A,ATP Tour,3,0.8%
+Vadym Ursu,M,Masters 1000,1,0.2%
+Vadym Ursu,surface:Hard,Hard,307,76.8%
+Vadym Ursu,surface:Clay,Clay,61,15.2%
+Vadym Ursu,surface:Carpet,Carpet,31,7.8%
+Vadym Ursu,surface:Grass,Grass,1,0.2%

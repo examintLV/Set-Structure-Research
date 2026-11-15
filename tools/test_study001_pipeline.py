@@ -130,3 +130,44 @@ class WilsonTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+class BestOfFiveTests(unittest.TestCase):
+    """Regression tests for the best-of-5 defect fixed 2026-11-15.
+
+    The parser hardcoded best-of-3 validation and rejected every best-of-5
+    match as unparseable. STUDY-001 never exposed it (that sample is 100%
+    best-of-3); STUDY-002 did, on Sumit Nagal's Grand Slam records.
+    """
+
+    def test_straight_sets_bo5(self):
+        p = parse_score("6-3 6-3 6-2", best_of=5)
+        self.assertTrue(p.ok, p.reason)
+        self.assertEqual(p.n_conventional, 3)
+
+    def test_four_sets_bo5(self):
+        p = parse_score("4-6 6-1 6-2 6-4", best_of=5)
+        self.assertTrue(p.ok, p.reason)
+        self.assertEqual(p.n_conventional, 4)
+
+    def test_five_sets_bo5(self):
+        p = parse_score("6-3 6-7(4) 6-3 4-6 6-2", best_of=5)
+        self.assertTrue(p.ok, p.reason)
+        self.assertEqual(p.n_conventional, 5)
+
+    def test_three_sets_is_invalid_for_bo5_winner_tally(self):
+        # 3 sets in bo5 means the winner took exactly 3: valid only if tally is 3-0
+        p = parse_score("6-2 7-5 6-3", best_of=5)
+        self.assertTrue(p.ok, p.reason)
+
+    def test_bo5_rejects_six_sets(self):
+        p = parse_score("6-3 6-3 6-3 6-3 6-3 6-3", best_of=5)
+        self.assertFalse(p.ok)
+
+    def test_bo5_retirement_still_retirement(self):
+        p = parse_score("6-3 2-4 RET", best_of=5)
+        self.assertEqual(p.status, "retired")
+
+    def test_default_arg_preserves_bo3_behaviour(self):
+        # a 4-set match must still be invalid when best_of is not supplied
+        self.assertFalse(parse_score("6-4 3-6 6-4 7-5").ok)
+        self.assertTrue(parse_score("6-4 3-6 6-4").ok)
