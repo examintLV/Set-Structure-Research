@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# Large / licensed data must not be committed; keep manifests and aggregates instead.
+*.csv
+!Set-Structure-Research-v1/Set-Structure-Research/templates/*.csv
+!Set-Structure-Research-v1/Set-Structure-Research/audits/artifacts/*.csv
