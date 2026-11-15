@@ -1,0 +1,9 @@
+measure,numerator,denominator,rate,ci95
+tiebreak sets / conventional sets,6671,56826,11.7%,11.5-12.0%
+matches with >=1 tiebreak / matches,6114,24292,25.2%,24.6-25.7%
+surface=Hard: tiebreak sets / sets,3557,28240,12.6%,12.2-13.0%
+surface=Hard: matches with >=1 TB / matches,3227,12089,26.7%,25.9-27.5%
+surface=Clay: tiebreak sets / sets,2949,27569,10.7%,10.3-11.1%
+surface=Clay: matches with >=1 TB / matches,2739,11772,23.3%,22.5-24.0%
+surface=Grass: tiebreak sets / sets,165,1017,16.2%,14.1-18.6%
+surface=Grass: matches with >=1 TB / matches,148,431,34.3%,30.0-38.9%

@@ -1,0 +1,1087 @@
+match_id,score,rule,reason,tourney,date
+2024-7393|295|210150|106310,W/O,E2_walkover,no played structure,Canberra CH,2024-01-01
+2024-7393|288|106310|106000,6-1 2-1 RET,E1_retired,retirement (used only in sensitivity check),Canberra CH,2024-01-01
+2024-2791|300|200473|106298,3-2 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 1 CH,2024-01-01
+2024-2791|287|200318|202358,6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 1 CH,2024-01-01
+2024-2791|281|210136|208233,4-6 6-4 4-1 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 1 CH,2024-01-01
+2024-2791|250|129911|106071,W/O,E2_walkover,no played structure,Nonthaburi 1 CH,2024-01-01
+2024-2205|254|202334|144915,6-0 2-0 RET,E1_retired,retirement (used only in sensitivity check),Noumea CH,2024-01-01
+2024-2205|247|202334|133933,6-0 3-0 RET,E1_retired,retirement (used only in sensitivity check),Noumea CH,2024-01-01
+2024-2831|274|106137|126125,7-6(3) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 1 CH,2024-01-01
+2024-1210|282|123961|208119,1-6 5-2 RET,E1_retired,retirement (used only in sensitivity check),Buenos Aires CH,2024-01-08
+2024-2795|299|200473|209259,W/O,E2_walkover,no played structure,Nonthaburi 2 CH,2024-01-08
+2024-2795|295|200677|106034,6-2 1-0 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 2 CH,2024-01-08
+2024-2833|284|200416|105814,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 2 CH,2024-01-08
+2024-2833|276|110751|210262,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 2 CH,2024-01-08
+2024-2833|274|209284|200374,7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 2 CH,2024-01-08
+2024-9678|289|122078|106075,6-3 5-2 RET,E1_retired,retirement (used only in sensitivity check),Buenos Aires CH,2024-01-15
+2024-9678|238|124014|208069,6-3 4-3 RET,E1_retired,retirement (used only in sensitivity check),Buenos Aires CH,2024-01-15
+2024-2903|275|126177|208055,6-2 5-2 Def.,E3_default,default,Indian Wells 1 CH,2024-01-15
+2024-2903|254|211394|209416,4-6 0-0 RET,E1_retired,retirement (used only in sensitivity check),Indian Wells 1 CH,2024-01-15
+2024-2903|252|210370|111511,6-7(5) 6-4 4-2 RET,E1_retired,retirement (used only in sensitivity check),Indian Wells 1 CH,2024-01-15
+2024-2903|247|209416|206325,4-6 3-0 RET,E1_retired,retirement (used only in sensitivity check),Indian Wells 1 CH,2024-01-15
+2024-2801|294|111805|110602,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 3 CH,2024-01-15
+2024-2801|284|207788|117361,7-6(4) 4-1 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 3 CH,2024-01-15
+2024-2801|278|144826|126964,4-1 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 3 CH,2024-01-15
+2024-2801|275|200216|105836,6-2 4-1 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 3 CH,2024-01-15
+2024-9623|284|106187|209857,6-4 4-1 RET,E1_retired,retirement (used only in sensitivity check),Tenerife CH,2024-01-15
+2024-9623|276|200266|134840,7-6(4) 3-1 RET,E1_retired,retirement (used only in sensitivity check),Tenerife CH,2024-01-15
+2024-9623|244|200266|133872,4-5 RET,E1_retired,retirement (used only in sensitivity check),Tenerife CH,2024-01-15
+2024-2905|295|209080|200587,6-3 2-2 RET,E1_retired,retirement (used only in sensitivity check),Indian Wells 2 CH,2024-01-22
+2024-2905|245|210028|208055,6-1 2-0 RET,E1_retired,retirement (used only in sensitivity check),Indian Wells 2 CH,2024-01-22
+2024-2901|299|202058|208882,W/O,E2_walkover,no played structure,Punta Del Este CH,2024-01-22
+2024-2837|279|106000|208230,6-7(4) 6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Ottignies-Louvain-la-Neuve CH,2024-01-22
+2024-6239|297|208004|202261,W/O,E2_walkover,no played structure,Quimper CH,2024-01-22
+2024-6239|293|202261|208021,1-6 4-1 RET,E1_retired,retirement (used only in sensitivity check),Quimper CH,2024-01-22
+2024-5018|242|210705|207343,6-7(4) 6-3 2-0 RET,E1_retired,retirement (used only in sensitivity check),Burnie CH,2024-01-29
+2024-9154|245|200228|210126,5-1 RET,E1_retired,retirement (used only in sensitivity check),Cleveland CH,2024-01-29
+2024-9154|238|208186|210028,W/O,E2_walkover,no played structure,Cleveland CH,2024-01-29
+2024-7652|246|105373|106288,3-1 RET,E1_retired,retirement (used only in sensitivity check),Koblenz CH,2024-01-29
+2024-7652|237|209911|144923,6-0 3-0 RET,E1_retired,retirement (used only in sensitivity check),Koblenz CH,2024-01-29
+2024-2835|293|105948|208913,6-0 3-0 RET,E1_retired,retirement (used only in sensitivity check),Piracicaba CH,2024-01-29
+2024-2835|282|126149|105561,6-3 1-1 RET,E1_retired,retirement (used only in sensitivity check),Piracicaba CH,2024-01-29
+2024-2835|251|210005|207704,4-6 7-6(5) 4-1 RET,E1_retired,retirement (used only in sensitivity check),Piracicaba CH,2024-01-29
+2024-7203|298|208013|106034,6-2 3-1 RET,E1_retired,retirement (used only in sensitivity check),Burnie 2 CH,2024-02-05
+2024-7849|283|200385|117361,2-6 6-4 4-1 RET,E1_retired,retirement (used only in sensitivity check),Chennai CH,2024-02-05
+2024-7849|275|105539|126555,3-2 RET,E1_retired,retirement (used only in sensitivity check),Chennai CH,2024-02-05
+2024-7916|294|110618|206912,W/O,E2_walkover,no played structure,Glasgow CH,2024-02-12
+2024-7916|281|131905|210696,6-1 5-7 4-1 RET,E1_retired,retirement (used only in sensitivity check),Glasgow CH,2024-02-12
+2024-9635|295|210150|105477,6-3 2-1 RET,E1_retired,retirement (used only in sensitivity check),Manama CH,2024-02-12
+2024-9635|285|126129|106331,7-6(6) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Manama CH,2024-02-12
+2024-9635|283|210683|126106,2-4 RET,E1_retired,retirement (used only in sensitivity check),Manama CH,2024-02-12
+2024-9635|253|117356|129911,6-1 0-0,E6_unparsed,invalid set '0-0': tied games,Manama CH,2024-02-12
+2024-9635|252|106362|126536,7-5 0-0,E6_unparsed,invalid set '0-0': tied games,Manama CH,2024-02-12
+2024-9162|275|208389|123809,6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Pau CH,2024-02-19
+2024-9162|240|209850|208230,3-6 4-1 RET,E1_retired,retirement (used only in sensitivity check),Pau CH,2024-02-19
+2024-7100|295|200443|124154,W/O,E2_walkover,no played structure,Pune CH,2024-02-19
+2024-7100|290|111505|207494,6-4 5-7 4-1 RET,E1_retired,retirement (used only in sensitivity check),Pune CH,2024-02-19
+2024-2839|296|105882|106075,7-5 3-6 3-0 RET,E1_retired,retirement (used only in sensitivity check),Tenerife 2 CH,2024-02-19
+2024-2839|249|105731|105671,6-4 4-0 RET,E1_retired,retirement (used only in sensitivity check),Tenerife 2 CH,2024-02-19
+2024-7874|290|106296|208518,7-5 2-1 RET,E1_retired,retirement (used only in sensitivity check),Lille CH,2024-02-26
+2024-7874|240|202260|117361,3-5 RET,E1_retired,retirement (used only in sensitivity check),Lille CH,2024-02-26
+2024-6961|291|209409|200473,W/O,E2_walkover,no played structure,New Delhi CH,2024-02-26
+2024-6961|250|209385|207609,5-2 RET,E1_retired,retirement (used only in sensitivity check),New Delhi CH,2024-02-26
+2024-6961|243|200385|144681,6-3 2-0 RET,E1_retired,retirement (used only in sensitivity check),New Delhi CH,2024-02-26
+2024-6961|239|207134|208158,7-6(1) 1-0 RET,E1_retired,retirement (used only in sensitivity check),New Delhi CH,2024-02-26
+2024-2915|288|123921|144656,6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Kigali 2 CH,2024-03-04
+2024-2915|287|202277|200297,3-6 6-4 3-0 RET,E1_retired,retirement (used only in sensitivity check),Kigali 2 CH,2024-03-04
+2024-2915|248|202147|144747,7-5 4-3 RET,E1_retired,retirement (used only in sensitivity check),Kigali 2 CH,2024-03-04
+2024-9479|298|123961|105952,6-1 2-6 4-2 RET,E1_retired,retirement (used only in sensitivity check),Santa Cruz De La Sierra CH,2024-03-04
+2024-9479|286|105952|207681,W/O,E2_walkover,no played structure,Santa Cruz De La Sierra CH,2024-03-04
+2024-9479|281|200116|209226,7-6(10) 5-7 4-0 RET,E1_retired,retirement (used only in sensitivity check),Santa Cruz De La Sierra CH,2024-03-04
+2024-9479|254|126183|210498,6-7(2) 6-1 5-2 RET,E1_retired,retirement (used only in sensitivity check),Santa Cruz De La Sierra CH,2024-03-04
+2024-9479|252|106380|126206,6-1 4-6 0-0 RET,E1_retired,retirement (used only in sensitivity check),Santa Cruz De La Sierra CH,2024-03-04
+2024-9479|244|106380|110774,4-2 RET,E1_retired,retirement (used only in sensitivity check),Santa Cruz De La Sierra CH,2024-03-04
+2024-9479|240|208046|105262,3-0 RET,E1_retired,retirement (used only in sensitivity check),Santa Cruz De La Sierra CH,2024-03-04
+2024-8297|297|202260|200484,5-3 RET,E1_retired,retirement (used only in sensitivity check),Hamburg CH,2024-03-11
+2024-3406|271|126197|105952,6-3 2-1 Def.,E3_default,default,Santiago CH,2024-03-11
+2024-3406|239|210052|110774,3-2 RET,E1_retired,retirement (used only in sensitivity check),Santiago CH,2024-03-11
+2024-3406|238|126183|106057,7-6(2) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Santiago CH,2024-03-11
+2024-2827|300|202358|208169,4-1 RET,E1_retired,retirement (used only in sensitivity check),Szekesfehervar CH,2024-03-11
+2024-9167|292|132686|105332,4-2 RET,E1_retired,retirement (used only in sensitivity check),Phoenix CH,2024-03-11
+2024-9167|290|209414|106005,4-1 RET,E1_retired,retirement (used only in sensitivity check),Phoenix CH,2024-03-11
+2024-9167|278|106005|106148,6-0 4-1 RET,E1_retired,retirement (used only in sensitivity check),Phoenix CH,2024-03-11
+2024-9167|244|200240|202320,6-7(4) 6-3 5-0 RET,E1_retired,retirement (used only in sensitivity check),Phoenix CH,2024-03-11
+2024-9167|241|200443|105062,6-2 2-0 RET,E1_retired,retirement (used only in sensitivity check),Phoenix CH,2024-03-11
+2024-9167|240|111200|144684,6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Phoenix CH,2024-03-11
+2024-2909|271|209226|105952,3-6 6-3 5-4 RET,E1_retired,retirement (used only in sensitivity check),Asuncion CH,2024-03-18
+2024-2909|252|131951|105262,W/O,E2_walkover,no played structure,Asuncion CH,2024-03-18
+2024-2917|290|122078|126206,W/O,E2_walkover,no played structure,Merida CH,2024-03-18
+2024-9171|248|105932|106187,6-2 2-0 RET,E1_retired,retirement (used only in sensitivity check),Murcia CH,2024-03-18
+2024-9472|274|212063|209209,7-6(2) 5-2 RET,E1_retired,retirement (used only in sensitivity check),Zadar CH,2024-03-18
+2024-9472|238|126627|202354,6-2 3-0 RET,E1_retired,retirement (used only in sensitivity check),Zadar CH,2024-03-18
+2024-2855|296|207663|105311,W/O,E2_walkover,no played structure,Girona CH,2024-03-25
+2024-2855|287|207411|126504,4-1 RET,E1_retired,retirement (used only in sensitivity check),Girona CH,2024-03-25
+2024-2855|286|124079|105477,6-2 1-0 RET,E1_retired,retirement (used only in sensitivity check),Girona CH,2024-03-25
+2024-2855|253|208269|105731,6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Girona CH,2024-03-25
+2024-2911|288|200259|109739,W/O,E2_walkover,no played structure,Naples CH,2024-03-25
+2024-2911|253|145001|105561,7-6(7) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Naples CH,2024-03-25
+2024-2911|252|209385|144918,4-1 RET,E1_retired,retirement (used only in sensitivity check),Naples CH,2024-03-25
+2024-2911|251|131905|105819,W/O,E2_walkover,no played structure,Naples CH,2024-03-25
+2024-2911|250|210338|106362,0-0 RET,E1_retired,retirement (used only in sensitivity check),Naples CH,2024-03-25
+2024-2911|240|210338|207608,6-0 1-0 RET,E1_retired,retirement (used only in sensitivity check),Naples CH,2024-03-25
+2024-0213|296|106045|106071,6-4 3-0 RET,E1_retired,retirement (used only in sensitivity check),San Luis Potosi CH,2024-03-25
+2024-2821|288|200335|127123,W/O,E2_walkover,no played structure,Sao Leopoldo CH,2024-03-25
+2024-2821|254|202271|134087,W/O,E2_walkover,no played structure,Sao Leopoldo CH,2024-03-25
+2024-9132|298|126523|105841,7-6(1) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Barcelona CH,2024-04-01
+2024-9132|287|126129|210120,6-0 0-0 RET,E1_retired,retirement (used only in sensitivity check),Barcelona CH,2024-04-01
+2024-9132|286|126523|106065,6-1 4-0 RET,E1_retired,retirement (used only in sensitivity check),Barcelona CH,2024-04-01
+2024-9132|282|207660|106167,6-4 1-0 RET,E1_retired,retirement (used only in sensitivity check),Barcelona CH,2024-04-01
+2024-9132|276|105841|110602,6-3 5-0 RET,E1_retired,retirement (used only in sensitivity check),Barcelona CH,2024-04-01
+2024-7494|284|209385|105932,6-2 5-3 RET,E1_retired,retirement (used only in sensitivity check),Barletta CH,2024-04-01
+2024-7494|249|208104|200713,4-6 7-6(5) 2-0 RET,E1_retired,retirement (used only in sensitivity check),Barletta CH,2024-04-01
+2024-9651|287|126149|207799,4-6 5-1 RET,E1_retired,retirement (used only in sensitivity check),Florianopolis CH,2024-04-01
+2024-9651|253|131951|207815,6-4 2-0 RET,E1_retired,retirement (used only in sensitivity check),Florianopolis CH,2024-04-01
+2024-9651|250|126711|105877,6-5 RET,E1_retired,retirement (used only in sensitivity check),Florianopolis CH,2024-04-01
+2024-9651|248|200116|122081,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Florianopolis CH,2024-04-01
+2024-9651|247|210178|207803,W/O,E2_walkover,no played structure,Florianopolis CH,2024-04-01
+2024-9651|238|105180|138485,4-0 RET,E1_retired,retirement (used only in sensitivity check),Florianopolis CH,2024-04-01
+2024-9651|237|208063|105868,6-7(7) 6-4 5-5 RET,E1_retired,retirement (used only in sensitivity check),Florianopolis CH,2024-04-01
+2024-8375|254|207834|210107,6-7(6) 6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Mexico City CH,2024-04-01
+2024-8375|248|210107|209080,6-1 0-0 RET,E1_retired,retirement (used only in sensitivity check),Mexico City CH,2024-04-01
+2024-1741|298|111805|126952,W/O,E2_walkover,no played structure,Busan CH,2024-04-08
+2024-1741|250|207129|144915,6-2 3-1 RET,E1_retired,retirement (used only in sensitivity check),Busan CH,2024-04-08
+2024-6963|285|200008|208014,7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Cuernavaca CH,2024-04-08
+2024-6963|242|208485|200346,2-1 RET,E1_retired,retirement (used only in sensitivity check),Cuernavaca CH,2024-04-08
+2024-9687|298|109303|105062,6-2 4-1 RET,E1_retired,retirement (used only in sensitivity check),Madrid CH,2024-04-08
+2024-9687|271|106177|105332,4-6 6-3 4-2 RET,E1_retired,retirement (used only in sensitivity check),Madrid CH,2024-04-08
+2024-9687|238|126535|207663,4-1 RET,E1_retired,retirement (used only in sensitivity check),Madrid CH,2024-04-08
+2024-8388|277|105882|207678,3-6 6-4 4-0 RET,E1_retired,retirement (used only in sensitivity check),Split CH,2024-04-08
+2024-8388|246|209142|202398,4-6 6-1 3-1 RET,E1_retired,retirement (used only in sensitivity check),Split CH,2024-04-08
+2024-2867|295|208260|202195,W/O,E2_walkover,no played structure,Acapulco CH,2024-04-15
+2024-2867|254|210107|111761,7-5 4-2 RET,E1_retired,retirement (used only in sensitivity check),Acapulco CH,2024-04-15
+2024-2867|243|104907|200346,6-4 4-3 RET,E1_retired,retirement (used only in sensitivity check),Acapulco CH,2024-04-15
+2024-7490|292|207352|209259,6-3 6-7(8) 4-4 RET,E1_retired,retirement (used only in sensitivity check),Gwangju CH,2024-04-15
+2024-7490|282|207352|210696,3-2 RET,E1_retired,retirement (used only in sensitivity check),Gwangju CH,2024-04-15
+2024-9514|276|105671|209874,6-1 1-1 RET,E1_retired,retirement (used only in sensitivity check),Oeiras CH,2024-04-15
+2024-9514|275|111200|126964,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras CH,2024-04-15
+2024-9514|254|209385|209903,3-3 RET,E1_retired,retirement (used only in sensitivity check),Oeiras CH,2024-04-15
+2024-2927|290|106380|126183,6-0 5-2 RET,E1_retired,retirement (used only in sensitivity check),San Miguel De Tucuman CH,2024-04-15
+2024-2927|248|210218|106203,3-1 RET,E1_retired,retirement (used only in sensitivity check),San Miguel De Tucuman CH,2024-04-15
+2024-0692|298|200267|123921,3-6 6-4 4-1 RET,E1_retired,retirement (used only in sensitivity check),Tallahassee CH,2024-04-15
+2024-9452|274|105180|105952,7-5 5-1 RET,E1_retired,retirement (used only in sensitivity check),Concepcion CH,2024-04-22
+2024-9452|271|208913|202271,6-0 5-2 RET,E1_retired,retirement (used only in sensitivity check),Concepcion CH,2024-04-22
+2024-9452|248|208852|202378,6-3 4-0 RET,E1_retired,retirement (used only in sensitivity check),Concepcion CH,2024-04-22
+2024-1797|299|106000|131905,W/O,E2_walkover,no played structure,Ostrava CH,2024-04-22
+2024-1797|295|207608|144645,W/O,E2_walkover,no played structure,Ostrava CH,2024-04-22
+2024-1797|290|131905|111505,4-6 7-6(11) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Ostrava CH,2024-04-22
+2024-1797|288|144645|210083,7-6(5) 2-1 RET,E1_retired,retirement (used only in sensitivity check),Ostrava CH,2024-04-22
+2024-1797|273|110602|209903,4-6 6-2 3-0 RET,E1_retired,retirement (used only in sensitivity check),Ostrava CH,2024-04-22
+2024-2151|282|207411|123983,3-6 7-6(6) 4-1 RET,E1_retired,retirement (used only in sensitivity check),Rome CH,2024-04-22
+2024-2151|248|209997|200266,3-6 6-3 5-1 RET,E1_retired,retirement (used only in sensitivity check),Rome CH,2024-04-22
+2024-5067|283|117357|106071,1-1 RET,E1_retired,retirement (used only in sensitivity check),Savannah CH,2024-04-22
+2024-5067|270|208854|111581,4-6 6-4 2-0 RET,E1_retired,retirement (used only in sensitivity check),Savannah CH,2024-04-22
+2024-5067|239|200748|210107,6-4 3-1 RET,E1_retired,retirement (used only in sensitivity check),Savannah CH,2024-04-22
+2024-2897|281|209262|106034,6-0 3-1 RET,E1_retired,retirement (used only in sensitivity check),Shenzhen CH,2024-04-22
+2024-2897|253|105575|134329,4-6 7-6(1) 4-0 RET,E1_retired,retirement (used only in sensitivity check),Shenzhen CH,2024-04-22
+2024-6965|283|209262|106187,6-2 3-0 RET,E1_retired,retirement (used only in sensitivity check),Guangzhou CH,2024-04-29
+2024-2919|288|210178|127123,5-1 RET,E1_retired,retirement (used only in sensitivity check),Porto Alegre CH,2024-04-29
+2024-2919|282|111187|206307,6-3 4-6 1-0 RET,E1_retired,retirement (used only in sensitivity check),Porto Alegre CH,2024-04-29
+2024-7009|296|126214|105487,6-0 0-0 RET,E1_retired,retirement (used only in sensitivity check),Aix En Provence CH,2024-04-29
+2024-7009|252|105062|208010,3-0 RET,E1_retired,retirement (used only in sensitivity check),Aix En Provence CH,2024-04-29
+2024-2861|297|209260|105948,6-1 3-4 RET,E1_retired,retirement (used only in sensitivity check),Cagliari CH,2024-04-29
+2024-2861|295|123755|105916,W/O,E2_walkover,no played structure,Cagliari CH,2024-04-29
+2024-2861|284|105948|104926,7-6(4) 3-1 RET,E1_retired,retirement (used only in sensitivity check),Cagliari CH,2024-04-29
+2024-2861|277|105916|206748,7-5 4-0 RET,E1_retired,retirement (used only in sensitivity check),Cagliari CH,2024-04-29
+2024-7707|277|206467|212077,2-6 6-1 4-1 RET,E1_retired,retirement (used only in sensitivity check),Francavilla Al Mare CH,2024-05-06
+2024-7707|268|105561|211768,4-2 RET,E1_retired,retirement (used only in sensitivity check),Francavilla Al Mare CH,2024-05-06
+2024-9697|299|106298|207681,7-6(5) 3-1 RET,E1_retired,retirement (used only in sensitivity check),Mauthausen CH,2024-05-06
+2024-9697|278|123828|133975,6-2 2-0 RET,E1_retired,retirement (used only in sensitivity check),Mauthausen CH,2024-05-06
+2024-9697|277|212021|200647,5-7 6-1 2-1 RET,E1_retired,retirement (used only in sensitivity check),Mauthausen CH,2024-05-06
+2024-9697|274|209903|209113,4-6 7-5 4-2 RET,E1_retired,retirement (used only in sensitivity check),Mauthausen CH,2024-05-06
+2024-0600|298|206904|144684,6-2 1-0 RET,E1_retired,retirement (used only in sensitivity check),Prague CH,2024-05-06
+2024-0600|291|106210|105477,6-1 0-0 RET,E1_retired,retirement (used only in sensitivity check),Prague CH,2024-05-06
+2024-2923|289|209226|208293,W/O,E2_walkover,no played structure,Santos CH,2024-05-06
+2024-2923|271|200331|208852,6-3 2-1 RET,E1_retired,retirement (used only in sensitivity check),Santos CH,2024-05-06
+2024-2923|249|200297|208871,5-2 RET,E1_retired,retirement (used only in sensitivity check),Santos CH,2024-05-06
+2024-2923|241|207803|122081,W/O,E2_walkover,no played structure,Santos CH,2024-05-06
+2024-2923|238|208871|211325,W/O,E2_walkover,no played structure,Santos CH,2024-05-06
+2024-2923|236|202305|210463,1-6 7-5 3-2 RET,E1_retired,retirement (used only in sensitivity check),Santos CH,2024-05-06
+2024-2921|245|209038|208158,6-7(6) 4-0 RET,E1_retired,retirement (used only in sensitivity check),Wuxi CH,2024-05-06
+2024-2871|296|208882|106167,6-3 2-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras CH,2024-05-13
+2024-2871|284|110602|200385,6-0 1-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras CH,2024-05-13
+2024-2871|279|207494|207678,4-6 7-6(2) 2-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras CH,2024-05-13
+2024-2871|240|200385|144972,6-3 2-1 RET,E1_retired,retirement (used only in sensitivity check),Oeiras CH,2024-05-13
+2024-1541|278|144821|144949,6-0 2-0 RET,E1_retired,retirement (used only in sensitivity check),Tunis CH,2024-05-13
+2024-1541|253|207608|208069,4-3 RET,E1_retired,retirement (used only in sensitivity check),Tunis CH,2024-05-13
+2024-3824|278|104918|208021,7-5 2-0 RET,E1_retired,retirement (used only in sensitivity check),Bordeaux CH,2024-05-13
+2024-2863|279|105870|109739,6-4 0-1 RET,E1_retired,retirement (used only in sensitivity check),Turin CH,2024-05-13
+2024-2863|273|206909|106415,6-4 4-3 RET,E1_retired,retirement (used only in sensitivity check),Turin CH,2024-05-13
+2024-8266|289|209284|210167,6-0 3-0 RET,E1_retired,retirement (used only in sensitivity check),Augsburg CH,2024-05-20
+2024-2869|281|202342|106220,1-0 RET,E1_retired,retirement (used only in sensitivity check),Skopje CH,2024-05-20
+2024-2869|278|209874|126197,6-7(5) 7-6(9) 4-2 RET,E1_retired,retirement (used only in sensitivity check),Skopje CH,2024-05-20
+2024-2869|271|212082|200672,5-7 7-5 3-0 RET,E1_retired,retirement (used only in sensitivity check),Skopje CH,2024-05-20
+2024-2869|246|126627|200385,W/O,E2_walkover,no played structure,Skopje CH,2024-05-20
+2024-9188|287|202122|106071,6-1 0-0 RET,E1_retired,retirement (used only in sensitivity check),Little Rock CH,2024-05-27
+2024-2887|293|207799|106198,5-2 RET,E1_retired,retirement (used only in sensitivity check),Santa Fe CH,2024-06-03
+2024-2873|286|209409|111578,4-6 6-4 4-1 RET,E1_retired,retirement (used only in sensitivity check),Tyler CH,2024-06-03
+2024-2873|272|105655|111515,7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Tyler CH,2024-06-03
+2024-2873|247|126206|208051,3-6 6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Tyler CH,2024-06-03
+2024-9500|284|123983|202090,6-1 0-0 RET,E1_retired,retirement (used only in sensitivity check),Zagreb CH,2024-06-03
+2024-9003|369|111794|144915,6-1 3-1 RET,E1_retired,retirement (used only in sensitivity check),Bratislava CH,2024-06-10
+2024-2787|295|208046|106264,W/O,E2_walkover,no played structure,Lima CH,2024-06-10
+2024-7536|296|208021|111460,7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Lyon CH,2024-06-10
+2024-7536|273|200259|131905,4-1 RET,E1_retired,retirement (used only in sensitivity check),Lyon CH,2024-06-10
+2024-7536|272|202262|144870,6-4 2-1 RET,E1_retired,retirement (used only in sensitivity check),Lyon CH,2024-06-10
+2024-7536|254|200266|105841,6-3 2-1 RET,E1_retired,retirement (used only in sensitivity check),Lyon CH,2024-06-10
+2024-7740|394|126129|105062,6-1 2-1 RET,E1_retired,retirement (used only in sensitivity check),Nottingham CH,2024-06-10
+2024-9005|249|106045|209857,W/O,E2_walkover,no played structure,Ilkley CH,2024-06-17
+2024-6757|280|210220|200374,6-7(9) 7-6(9) 2-0 RET,E1_retired,retirement (used only in sensitivity check),Blois CH,2024-06-17
+2024-0786|252|105180|210317,6-0 4-0 RET,E1_retired,retirement (used only in sensitivity check),Poznan CH,2024-06-17
+2024-9820|288|200331|105911,6-3 1-2 RET,E1_retired,retirement (used only in sensitivity check),Santa Cruz De La Sierra CH,2024-06-17
+2024-9835|377|206467|126523,7-6(6) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Sassuolo CH,2024-06-17
+2024-9835|372|105373|206748,3-3 RET,E1_retired,retirement (used only in sensitivity check),Sassuolo CH,2024-06-17
+2024-2929|291|200273|106232,6-3 3-2 RET,E1_retired,retirement (used only in sensitivity check),Ibague CH,2024-06-24
+2024-2929|242|105944|122081,3-2 RET,E1_retired,retirement (used only in sensitivity check),Ibague CH,2024-06-24
+2024-3463|294|202262|209284,2-6 6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Milan CH,2024-06-24
+2024-3463|289|133872|200216,7-6(5) 6-5 RET,E1_retired,retirement (used only in sensitivity check),Milan CH,2024-06-24
+2024-2883|299|210460|111578,6-2 2-0 RET,E1_retired,retirement (used only in sensitivity check),Bloomfield Hills CH,2024-07-01
+2024-2883|296|210460|106071,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Bloomfield Hills CH,2024-07-01
+2024-2883|292|111578|126555,5-7 6-3 4-0 RET,E1_retired,retirement (used only in sensitivity check),Bloomfield Hills CH,2024-07-01
+2024-2883|254|209088|209936,6-3 3-3 RET,E1_retired,retirement (used only in sensitivity check),Bloomfield Hills CH,2024-07-01
+2024-2931|292|123961|144821,4-2 RET,E1_retired,retirement (used only in sensitivity check),Brasov CH,2024-07-01
+2024-2931|247|208457|105932,6-1 4-6 4-0 RET,E1_retired,retirement (used only in sensitivity check),Brasov CH,2024-07-01
+2024-2879|237|133863|131951,4-6 6-2 5-5 RET,E1_retired,retirement (used only in sensitivity check),Karlsruhe CH,2024-07-01
+2024-2877|374|106065|105561,4-6 5-3 RET,E1_retired,retirement (used only in sensitivity check),Modena CH,2024-07-01
+2024-1214|270|210120|123921,7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Troyes CH,2024-07-01
+2024-0526|281|200095|205734,6-2 1-0 RET,E1_retired,retirement (used only in sensitivity check),Braunschweig CH,2024-07-08
+2024-0526|252|210167|106072,7-6(1) 4-5 RET,E1_retired,retirement (used only in sensitivity check),Braunschweig CH,2024-07-08
+2024-8394|376|123847|202262,7-6(1) 5-2 RET,E1_retired,retirement (used only in sensitivity check),Iasi CH,2024-07-08
+2024-8394|355|200263|207502,6-7(4) 6-1 4-1 RET,E1_retired,retirement (used only in sensitivity check),Iasi CH,2024-07-08
+2024-9531|278|209098|144645,6-1 4-1 RET,E1_retired,retirement (used only in sensitivity check),Salzburg CH,2024-07-08
+2024-9351|297|144642|202090,6-2 1-0 RET,E1_retired,retirement (used only in sensitivity check),Trieste CH,2024-07-08
+2024-9351|289|210012|209185,W/O,E2_walkover,no played structure,Trieste CH,2024-07-08
+2024-9351|284|202090|210425,4-1 RET,E1_retired,retirement (used only in sensitivity check),Trieste CH,2024-07-08
+2024-9351|282|202235|202358,6-4 3-6 1-0 RET,E1_retired,retirement (used only in sensitivity check),Trieste CH,2024-07-08
+2024-9351|274|208353|126504,3-6 7-5 0-0 RET,E1_retired,retirement (used only in sensitivity check),Trieste CH,2024-07-08
+2024-9351|238|200244|134840,6-4 2-1 RET,E1_retired,retirement (used only in sensitivity check),Trieste CH,2024-07-08
+2024-9198|278|210731|111794,6-4 0-2 RET,E1_retired,retirement (used only in sensitivity check),Amersfoort CH,2024-07-15
+2024-0877|285|200748|200443,4-6 5-2 RET,E1_retired,retirement (used only in sensitivity check),Granby CH,2024-07-15
+2024-0877|252|210044|210460,1-6 7-6(7) 1-1 RET,E1_retired,retirement (used only in sensitivity check),Granby CH,2024-07-15
+2024-0472|290|106362|105731,7-6(3) 1-0 RET,E1_retired,retirement (used only in sensitivity check),Pozoblanco CH,2024-07-15
+2024-9533|391|200672|207129,5-4 RET,E1_retired,retirement (used only in sensitivity check),Astana CH,2024-07-15
+2024-2797|237|135753|200748,4-0 RET,E1_retired,retirement (used only in sensitivity check),Chicago CH,2024-07-22
+2024-0783|293|105938|210220,W/O,E2_walkover,no played structure,Segovia CH,2024-07-22
+2024-0783|286|208605|105633,W/O,E2_walkover,no played structure,Segovia CH,2024-07-22
+2024-0783|249|202075|132573,5-4 RET,E1_retired,retirement (used only in sensitivity check),Segovia CH,2024-07-22
+2024-0221|273|209405|126652,7-5 2-0 RET,E1_retired,retirement (used only in sensitivity check),Tampere CH,2024-07-22
+2024-9544|272|105932|202090,6-1 0-0 RET,E1_retired,retirement (used only in sensitivity check),Verona CH,2024-07-22
+2024-0586|289|209334|106071,W/O,E2_walkover,no played structure,Lexington CH,2024-07-29
+2024-0586|285|210338|200587,6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Lexington CH,2024-07-29
+2024-0586|283|208854|209957,5-7 7-5 3-0 RET,E1_retired,retirement (used only in sensitivity check),Lexington CH,2024-07-29
+2024-6795|393|106198|105373,6-4 4-0 RET,E1_retired,retirement (used only in sensitivity check),Liberec CH,2024-07-29
+2024-9542|299|122298|208169,3-1 RET,E1_retired,retirement (used only in sensitivity check),Luedenscheid CH,2024-07-29
+2024-9542|276|123921|106162,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Luedenscheid CH,2024-07-29
+2024-9542|252|210052|202418,W/O,E2_walkover,no played structure,Luedenscheid CH,2024-07-29
+2024-9526|299|208279|210262,6-3 4-1 RET,E1_retired,retirement (used only in sensitivity check),Porto CH,2024-07-29
+2024-9540|356|200713|105561,3-6 6-0 3-0 RET,E1_retired,retirement (used only in sensitivity check),San Marino CH,2024-07-29
+2024-2935|237|210200|208334,3-6 6-1 3-1 RET,E1_retired,retirement (used only in sensitivity check),Bonn CH,2024-08-05
+2024-2120|399|209147|208343,7-5 0-0 RET,E1_retired,retirement (used only in sensitivity check),Cordenons CH,2024-08-05
+2024-2120|369|210053|209997,6-4 3-0 RET,E1_retired,retirement (used only in sensitivity check),Cordenons CH,2024-08-05
+2024-2120|355|208024|210510,7-5 4-6 3-1 RET,E1_retired,retirement (used only in sensitivity check),Cordenons CH,2024-08-05
+2024-2941|270|210028|126208,1-0 RET,E1_retired,retirement (used only in sensitivity check),Lincoln CH,2024-08-05
+2024-7316|271|209098|209857,7-6(5) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Cary CH,2024-08-12
+2024-7316|242|207182|211566,4-1 RET,E1_retired,retirement (used only in sensitivity check),Cary CH,2024-08-12
+2024-2789|290|208518|134068,6-0 5-1 RET,E1_retired,retirement (used only in sensitivity check),Grodzisk Mazowiecki CH,2024-08-12
+2024-7201|286|105952|200116,W/O,E2_walkover,no played structure,Santo Domingo CH,2024-08-12
+2024-7201|277|202358|127123,6-1 0-0 RET,E1_retired,retirement (used only in sensitivity check),Santo Domingo CH,2024-08-12
+2024-7201|249|208485|207776,6-2 3-0 RET,E1_retired,retirement (used only in sensitivity check),Santo Domingo CH,2024-08-12
+2024-8392|396|206470|200030,5-7 7-5 0-0 RET,E1_retired,retirement (used only in sensitivity check),Todi CH,2024-08-12
+2024-8392|382|208353|208104,7-6(4) 3-2 RET,E1_retired,retirement (used only in sensitivity check),Todi CH,2024-08-12
+2024-8392|365|210377|105438,6-2 4-3 RET,E1_retired,retirement (used only in sensitivity check),Todi CH,2024-08-12
+2024-8392|353|209164|209185,W/O,E2_walkover,no played structure,Todi CH,2024-08-12
+2024-2043|273|207669|106220,6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Dobrich CH,2024-08-19
+2024-2043|253|105806|208182,6-4 2-0 RET,E1_retired,retirement (used only in sensitivity check),Dobrich CH,2024-08-19
+2024-7746|254|210553|209951,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Jinan CH,2024-08-19
+2024-2933|388|209976|126149,2-0 RET,E1_retired,retirement (used only in sensitivity check),Porto CH,2024-08-26
+2024-2933|355|133014|202258,4-6 7-5 2-0 RET,E1_retired,retirement (used only in sensitivity check),Porto CH,2024-08-26
+2024-7783|399|106034|111805,6-3 6-7(6) 4-0 RET,E1_retired,retirement (used only in sensitivity check),Zhangjiagang CH,2024-08-26
+2024-7783|394|105613|207494,W/O,E2_walkover,no played structure,Zhangjiagang CH,2024-08-26
+2024-7783|382|106034|202122,6-2 1-0 RET,E1_retired,retirement (used only in sensitivity check),Zhangjiagang CH,2024-08-26
+2024-7783|363|207343|123847,6-4 4-1 RET,E1_retired,retirement (used only in sensitivity check),Zhangjiagang CH,2024-08-26
+2024-7783|356|209931|126283,6-2 4-1 RET,E1_retired,retirement (used only in sensitivity check),Zhangjiagang CH,2024-08-26
+2024-7783|353|208876|117353,6-0 5-0 RET,E1_retired,retirement (used only in sensitivity check),Zhangjiagang CH,2024-08-26
+2024-3473|395|210120|105453,W/O,E2_walkover,no played structure,Como CH,2024-08-26
+2024-3473|387|105453|105932,6-1 3-1 RET,E1_retired,retirement (used only in sensitivity check),Como CH,2024-08-26
+2024-3473|377|200329|105332,3-2 RET,E1_retired,retirement (used only in sensitivity check),Como CH,2024-08-26
+2024-3473|359|209254|125847,W/O,E2_walkover,no played structure,Como CH,2024-08-26
+2024-3473|356|202354|209916,6-7(2) 5-2 RET,E1_retired,retirement (used only in sensitivity check),Como CH,2024-08-26
+2024-7973|285|208540|106000,6-3 4-1 RET,E1_retired,retirement (used only in sensitivity check),Manacor CH,2024-08-26
+2024-7973|271|208843|126125,6-3 4-1 RET,E1_retired,retirement (used only in sensitivity check),Manacor CH,2024-08-26
+2024-1763|299|144719|105882,6-1 3-0 RET,E1_retired,retirement (used only in sensitivity check),Genoa CH,2024-09-02
+2024-1763|289|200216|202090,7-6(7) 1-0 RET,E1_retired,retirement (used only in sensitivity check),Genoa CH,2024-09-02
+2024-1763|281|144719|121411,1-6 4-4 RET,E1_retired,retirement (used only in sensitivity check),Genoa CH,2024-09-02
+2024-1763|242|209890|105130,6-4 2-1 RET,E1_retired,retirement (used only in sensitivity check),Genoa CH,2024-09-02
+2024-6313|292|200318|133297,2-6 6-4 4-0 RET,E1_retired,retirement (used only in sensitivity check),Shanghai CH,2024-09-02
+2024-6313|282|200318|200059,6-7(5) 3-3 RET,E1_retired,retirement (used only in sensitivity check),Shanghai CH,2024-09-02
+2024-6313|245|200666|209038,6-7(6) 6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Shanghai CH,2024-09-02
+2024-7083|397|106000|209957,6-7(6) 6-1 4-0 RET,E1_retired,retirement (used only in sensitivity check),Istanbul CH,2024-09-02
+2024-7083|390|209098|111200,6-4 1-1 RET,E1_retired,retirement (used only in sensitivity check),Istanbul CH,2024-09-02
+2024-7083|385|106000|105575,2-2 RET,E1_retired,retirement (used only in sensitivity check),Istanbul CH,2024-09-02
+2024-7083|378|133835|106187,6-4 2-1 RET,E1_retired,retirement (used only in sensitivity check),Istanbul CH,2024-09-02
+2024-7083|359|117356|200565,6-3 3-1 RET,E1_retired,retirement (used only in sensitivity check),Istanbul CH,2024-09-02
+2024-0784|370|106203|200374,6-2 2-1 RET,E1_retired,retirement (used only in sensitivity check),Seville CH,2024-09-02
+2024-2945|398|125847|210556,6-2 1-0 RET,E1_retired,retirement (used only in sensitivity check),Dobrich CH,2024-09-09
+2024-2945|358|202418|207220,6-0 3-1 RET,E1_retired,retirement (used only in sensitivity check),Dobrich CH,2024-09-09
+2024-2945|352|211542|207431,6-3 4-3 RET,E1_retired,retirement (used only in sensitivity check),Dobrich CH,2024-09-09
+2024-2937|393|106331|202168,6-2 2-1 RET,E1_retired,retirement (used only in sensitivity check),Guangzhou CH,2024-09-09
+2024-2937|386|200647|105339,3-6 7-6(3) 0-1 RET,E1_retired,retirement (used only in sensitivity check),Guangzhou CH,2024-09-09
+2024-2937|367|109737|144915,6-2 5-4 RET,E1_retired,retirement (used only in sensitivity check),Guangzhou CH,2024-09-09
+2024-2937|360|207343|126208,2-6 7-6(4) 2-1 RET,E1_retired,retirement (used only in sensitivity check),Guangzhou CH,2024-09-09
+2024-2937|359|212465|111436,6-2 4-4 RET,E1_retired,retirement (used only in sensitivity check),Guangzhou CH,2024-09-09
+2024-2937|356|111801|200039,6-3 2-0 RET,E1_retired,retirement (used only in sensitivity check),Guangzhou CH,2024-09-09
+2024-7345|295|210530|106071,7-5 0-0 RET,E1_retired,retirement (used only in sensitivity check),Las Vegas CH,2024-09-09
+2024-7345|253|208300|209326,7-6(5) 3-1 RET,E1_retired,retirement (used only in sensitivity check),Las Vegas CH,2024-09-09
+2024-3503|279|126107|106362,6-2 4-2 RET,E1_retired,retirement (used only in sensitivity check),Rennes CH,2024-09-09
+2024-0448|373|110751|208343,6-3 0-0 Ret'd,E1_retired,retirement (used only in sensitivity check),Szczecin CH,2024-09-09
+2024-2891|396|111513|106329,6-4 4-1 RET,E1_retired,retirement (used only in sensitivity check),Bad Waltersdorf CH,2024-09-16
+2024-2891|362|209983|109054,5-7 7-6(1) 1-0 RET,E1_retired,retirement (used only in sensitivity check),Bad Waltersdorf CH,2024-09-16
+2024-2891|359|117356|105373,7-6(4) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Bad Waltersdorf CH,2024-09-16
+2024-9814|391|126663|208882,6-7(5) 6-3 5-1 RET,E1_retired,retirement (used only in sensitivity check),Cali CH,2024-09-16
+2024-9814|368|126209|122081,W/O,E2_walkover,no played structure,Cali CH,2024-09-16
+2024-9814|365|105944|202378,6-2 2-0 RET,E1_retired,retirement (used only in sensitivity check),Cali CH,2024-09-16
+2024-9814|359|212831|126581,2-6 7-6(2) 4-1 RET,E1_retired,retirement (used only in sensitivity check),Cali CH,2024-09-16
+2024-9552|387|126127|106210,7-6(4) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Saint-Tropez CH,2024-09-16
+2024-9552|385|207213|208021,6-4 2-1 RET,E1_retired,retirement (used only in sensitivity check),Saint-Tropez CH,2024-09-16
+2024-9552|366|209131|202342,6-1 2-2 RET,E1_retired,retirement (used only in sensitivity check),Saint-Tropez CH,2024-09-16
+2024-9552|360|105731|105932,7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Saint-Tropez CH,2024-09-16
+2024-9552|354|209131|144970,5-1 RET,E1_retired,retirement (used only in sensitivity check),Saint-Tropez CH,2024-09-16
+2024-6590|370|202146|105671,1-1 RET,E1_retired,retirement (used only in sensitivity check),Sibiu CH,2024-09-16
+2024-2889|381|123961|144918,5-7 6-3 2-0 RET,E1_retired,retirement (used only in sensitivity check),Antofagasta CH,2024-09-23
+2024-2889|369|209254|110774,3-3 RET,E1_retired,retirement (used only in sensitivity check),Antofagasta CH,2024-09-23
+2024-2889|357|212988|126183,1-0 RET,E1_retired,retirement (used only in sensitivity check),Antofagasta CH,2024-09-23
+2024-2803|392|210530|124014,W/O,E2_walkover,no played structure,Charleston CH,2024-09-23
+2024-2803|383|209262|207969,6-0 4-6 2-1 RET,E1_retired,retirement (used only in sensitivity check),Charleston CH,2024-09-23
+2024-7742|389|209284|106177,6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Lisbon CH,2024-09-23
+2024-7742|355|202127|126120,6-2 2-0 RET,E1_retired,retirement (used only in sensitivity check),Lisbon CH,2024-09-23
+2024-2273|359|200277|209512,6-3 2-1 RET,E1_retired,retirement (used only in sensitivity check),Orleans CH,2024-09-23
+2024-2273|355|105559|134472,4-4 RET,E1_retired,retirement (used only in sensitivity check),Orleans CH,2024-09-23
+2024-2939|391|209113|123819,6-3 2-0 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 4 CH,2024-09-24
+2024-2939|386|126555|106187,6-4 4-1 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 4 CH,2024-09-24
+2024-2939|352|211324|200321,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 4 CH,2024-09-24
+2024-7913|392|209284|208859,W/O,E2_walkover,no played structure,Braga CH,2024-09-30
+2024-7913|382|202127|106075,4-3 RET,E1_retired,retirement (used only in sensitivity check),Braga CH,2024-09-30
+2024-7913|355|210569|208104,6-4 2-1 RET,E1_retired,retirement (used only in sensitivity check),Braga CH,2024-09-30
+2024-1768|384|200670|208502,3-5 RET,E1_retired,retirement (used only in sensitivity check),Tiburon CH,2024-09-30
+2024-1768|366|207181|200452,6-4 3-1 RET,E1_retired,retirement (used only in sensitivity check),Tiburon CH,2024-09-30
+2024-7909|383|127760|133835,7-6(7) 2-1 RET,E1_retired,retirement (used only in sensitivity check),Villena CH,2024-09-30
+2024-7909|364|211514|202075,W/O,E2_walkover,no played structure,Villena CH,2024-09-30
+2024-7909|363|122554|105731,7-6(6) 1-0 RET,E1_retired,retirement (used only in sensitivity check),Villena CH,2024-09-30
+2024-7339|364|208118|206573,6-3 3-1 RET,E1_retired,retirement (used only in sensitivity check),Fairfield CH,2024-10-07
+2024-2947|346|144748|209038,7-6(3) 5-0 RET,E1_retired,retirement (used only in sensitivity check),Hangzhou CH,2024-10-07
+2024-2947|339|207463|144915,7-6(5) 4-0 RET,E1_retired,retirement (used only in sensitivity check),Hangzhou CH,2024-10-07
+2024-9625|380|126409|122554,5-4 RET,E1_retired,retirement (used only in sensitivity check),Roanne CH,2024-10-07
+2024-2811|377|208882|105911,6-3 4-1 RET,E1_retired,retirement (used only in sensitivity check),Villa Maria CH,2024-10-07
+2024-2811|345|207815|211761,6-7(3) 6-4 3-1 RET,E1_retired,retirement (used only in sensitivity check),Villa Maria CH,2024-10-07
+2024-9128|341|212530|202297,6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Calgary CH,2024-10-14
+2024-9128|338|212531|208117,6-3 5-7 4-1 RET,E1_retired,retirement (used only in sensitivity check),Calgary CH,2024-10-14
+2024-6307|384|207729|200116,6-3 5-4 RET,E1_retired,retirement (used only in sensitivity check),Campinas CH,2024-10-14
+2024-2893|370|200266|208134,7-5 4-1 RET,E1_retired,retirement (used only in sensitivity check),Olbia CH,2024-10-14
+2024-2893|359|207213|209890,3-2 RET,E1_retired,retirement (used only in sensitivity check),Olbia CH,2024-10-14
+2024-2893|348|209984|144684,6-4 3-1 RET,E1_retired,retirement (used only in sensitivity check),Olbia CH,2024-10-14
+2024-2893|340|126964|212077,W/O,E2_walkover,no played structure,Olbia CH,2024-10-14
+2024-7797|381|105339|208182,7-5 5-2 RET,E1_retired,retirement (used only in sensitivity check),Shenzhen Longhua CH,2024-10-14
+2024-7797|379|200443|210317,6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Shenzhen Longhua CH,2024-10-14
+2024-7797|353|207987|144915,6-4 3-1 RET,E1_retired,retirement (used only in sensitivity check),Shenzhen Longhua CH,2024-10-14
+2024-7797|350|207186|104907,6-4 3-0 RET,E1_retired,retirement (used only in sensitivity check),Shenzhen Longhua CH,2024-10-14
+2024-7797|345|144915|207463,6-4 2-0 RET,E1_retired,retirement (used only in sensitivity check),Shenzhen Longhua CH,2024-10-14
+2024-1796|345|207239|202359,6-3 3-1 RET,E1_retired,retirement (used only in sensitivity check),St. Brieuc CH,2024-10-14
+2024-2895|376|105671|209226,5-7 6-2 2-3 RET,E1_retired,retirement (used only in sensitivity check),Curitiba CH,2024-10-21
+2024-2895|355|105700|106198,6-4 3-6 4-0 RET,E1_retired,retirement (used only in sensitivity check),Curitiba CH,2024-10-21
+2024-2951|377|209326|111578,W/O,E2_walkover,no played structure,Sioux Falls CH,2024-10-21
+2024-7391|379|105948|200748,6-2 1-0 RET,E1_retired,retirement (used only in sensitivity check),Guayaquil CH,2024-10-28
+2024-7391|374|210012|207678,7-5 6-7(5) 3-3 RET,E1_retired,retirement (used only in sensitivity check),Guayaquil CH,2024-10-28
+2024-7391|366|208882|106203,7-6(1) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Guayaquil CH,2024-10-28
+2024-7391|340|208143|106228,3-6 6-4 1-0 RET,E1_retired,retirement (used only in sensitivity check),Guayaquil CH,2024-10-28
+2024-7288|382|105932|105938,W/O,E2_walkover,no played structure,Seoul CH,2024-10-28
+2024-2817|337|211767|209391,6-1 0-0 RET,E1_retired,retirement (used only in sensitivity check),Sydney CH,2024-10-28
+2024-8310|358|208134|123819,6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Helsinki CH,2024-11-04
+2024-8310|354|209406|106210,W/O,E2_walkover,no played structure,Helsinki CH,2024-11-04
+2024-8310|344|144972|144684,6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Helsinki CH,2024-11-04
+2024-8310|337|210558|202398,6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Helsinki CH,2024-11-04
+2024-0363|359|106283|106045,6-4 1-0 RET,E1_retired,retirement (used only in sensitivity check),Knoxville CH,2024-11-04
+2024-0363|341|210028|124014,6-2 2-1 RET,E1_retired,retirement (used only in sensitivity check),Knoxville CH,2024-11-04
+2024-6579|339|208364|207834,W/O,E2_walkover,no played structure,Lima 2 CH,2024-11-04
+2024-8386|372|210696|106034,4-3 RET,E1_retired,retirement (used only in sensitivity check),Matsuyama CH,2024-11-04
+2024-8386|365|106109|212063,6-2 3-0 RET,E1_retired,retirement (used only in sensitivity check),Matsuyama CH,2024-11-04
+2024-7235|377|211577|106071,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Drummondville CH,2024-11-11
+2024-7235|376|208389|126107,5-2 RET,E1_retired,retirement (used only in sensitivity check),Drummondville CH,2024-11-11
+2024-7235|374|200452|144826,6-3 4-2 RET,E1_retired,retirement (used only in sensitivity check),Drummondville CH,2024-11-11
+2024-7235|372|212082|106057,W/O,E2_walkover,no played structure,Drummondville CH,2024-11-11
+2024-7235|355|208854|206499,2-6 7-6(3) 2-1 RET,E1_retired,retirement (used only in sensitivity check),Drummondville CH,2024-11-11
+2024-7397|361|133297|117360,7-5 0-0 RET,E1_retired,retirement (used only in sensitivity check),Kobe CH,2024-11-11
+2024-2963|354|134794|200374,3-2 Def.,E3_default,default,Lyon 2 CH,2024-11-11
+2024-0544|370|208913|207681,7-6(2) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Montevideo CH,2024-11-11
+2024-2955|367|210721|105477,7-5 4-2 RET,E1_retired,retirement (used only in sensitivity check),Montemar CH,2024-11-18
+2024-2955|360|209406|126504,1-1 RET,E1_retired,retirement (used only in sensitivity check),Montemar CH,2024-11-18
+2024-2955|356|200572|202090,6-3 2-1 RET,E1_retired,retirement (used only in sensitivity check),Montemar CH,2024-11-18
+2024-6626|377|106005|105932,6-3 4-2 RET,E1_retired,retirement (used only in sensitivity check),Yokohama CH,2024-11-18
+2024-6626|364|210340|210696,5-1 RET,E1_retired,retirement (used only in sensitivity check),Yokohama CH,2024-11-18
+2024-6626|363|111454|211596,6-1 3-0 RET,E1_retired,retirement (used only in sensitivity check),Yokohama CH,2024-11-18
+2024-6626|353|122352|208104,W/O,E2_walkover,no played structure,Yokohama CH,2024-11-18
+2024-8312|371|105948|202090,W/O,E2_walkover,no played structure,Maia CH,2024-11-25
+2024-8312|355|105948|144972,6-1 1-0 RET,E1_retired,retirement (used only in sensitivity check),Maia CH,2024-11-25
+2024-2959|339|211394|207386,6-7(4) 7-6(7) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Manzanillo CH,2024-11-25
+2024-2829|355|206307|207681,6-4 3-1 RET,E1_retired,retirement (used only in sensitivity check),Temuco CH,2024-11-25
+2024-2829|351|208852|122536,6-7(5) 6-4 4-0 RET,E1_retired,retirement (used only in sensitivity check),Temuco CH,2024-11-25
+2024-2829|347|208927|106228,4-0 RET,E1_retired,retirement (used only in sensitivity check),Temuco CH,2024-11-25
+2024-8268|383|122352|210340,6-0 6-7(6) 6-6 RET,E1_retired,retirement (used only in sensitivity check),Yokkaichi CH,2024-11-25
+2024-8268|379|122352|133975,4-1 RET,E1_retired,retirement (used only in sensitivity check),Yokkaichi CH,2024-11-25
+2024-8268|378|208278|106415,W/O,E2_walkover,no played structure,Yokkaichi CH,2024-11-25
+2025-7393|384|212021|133297,W/O,E2_walkover,no played structure,Canberra CH,2024-12-30
+2025-2791|381|210536|126149,4-1 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 1 CH,2024-12-30
+2025-2205|357|117359|208136,7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Noumea CH,2024-12-30
+2025-2795|362|105655|200309,5-1 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 2 CH,2025-01-06
+2025-2795|361|126208|201987,2-6 7-6(6) 3-1 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 2 CH,2025-01-06
+2025-2795|339|202113|122495,2-6 7-6(7) 1-0 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 2 CH,2025-01-06
+2025-2831|378|209098|106393,6-1 2-1 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 1 CH,2025-01-06
+2025-2831|351|106078|106072,5-7 7-6(6) 4-2 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 1 CH,2025-01-06
+2025-2831|350|207609|208426,4-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 1 CH,2025-01-06
+2025-9678|367|208223|105911,6-4 4-2 RET,E1_retired,retirement (used only in sensitivity check),Buenos Aires Tigre CH,2025-01-13
+2025-2801|368|202260|210382,7-6(0) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 3 CH,2025-01-13
+2025-2801|350|209326|133872,W/O,E2_walkover,no played structure,Nonthaburi 3 CH,2025-01-13
+2025-2833|372|200436|207546,5-2 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 2 CH,2025-01-13
+2025-2833|369|210136|209191,4-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 2 CH,2025-01-13
+2025-2833|344|200670|206470,2-4 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 2 CH,2025-01-13
+2025-2979|375|200711|202090,W/O,E2_walkover,no played structure,Oeiras 3 CH,2025-01-20
+2025-2967|356|206923|210121,6-4 1-0 RET,E1_retired,retirement (used only in sensitivity check),Brisbane 1 CH,2025-01-27
+2025-9154|377|208342|200587,W/O,E2_walkover,no played structure,Cleveland CH,2025-01-27
+2025-7652|341|202239|106293,W/O,E2_walkover,no played structure,Koblenz CH,2025-01-27
+2025-2835|382|208882|200116,7-5 4-5 RET,E1_retired,retirement (used only in sensitivity check),Piracicaba CH,2025-01-27
+2025-2835|349|210510|126197,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Piracicaba CH,2025-01-27
+2025-2969|344|213178|105011,1-1 RET,E1_retired,retirement (used only in sensitivity check),Brisbane 2 CH,2025-02-03
+2025-7849|369|144985|106210,6-7(7) 7-6(3) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Chennai CH,2025-02-03
+2025-7849|364|200677|106293,7-5 3-1 RET,E1_retired,retirement (used only in sensitivity check),Chennai CH,2025-02-03
+2025-7849|338|208876|144925,7-5 1-2 RET,E1_retired,retirement (used only in sensitivity check),Chennai CH,2025-02-03
+2025-7874|385|207884|106298,6-3 3-5 RET,E1_retired,retirement (used only in sensitivity check),Lille CH,2025-02-03
+2025-7874|375|208819|208843,W/O,E2_walkover,no played structure,Lille CH,2025-02-03
+2025-7874|341|207884|123809,6-3 6-5 RET,E1_retired,retirement (used only in sensitivity check),Lille CH,2025-02-03
+2025-2965|369|208361|106057,6-2 3-1 RET,E1_retired,retirement (used only in sensitivity check),Rosario CH,2025-02-03
+2025-2965|364|106198|202358,4-6 6-4 4-1 RET,E1_retired,retirement (used only in sensitivity check),Rosario CH,2025-02-03
+2025-2965|353|207182|209875,7-6(4) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Rosario CH,2025-02-03
+2025-9623|363|209147|206748,W/O,E2_walkover,no played structure,Tenerife 1 CH,2025-02-03
+2025-9623|354|209931|209385,7-5 0-0 RET,E1_retired,retirement (used only in sensitivity check),Tenerife 1 CH,2025-02-03
+2025-9635|368|149282|202090,7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Manama CH,2025-02-10
+2025-9635|346|209899|202052,W/O,E2_walkover,no played structure,Manama CH,2025-02-10
+2025-6961|338|106293|202314,6-2 4-1 RET,E1_retired,retirement (used only in sensitivity check),New Delhi CH,2025-02-10
+2025-2839|380|105807|209406,6-2 2-1 RET,E1_retired,retirement (used only in sensitivity check),Tenerife 2 CH,2025-02-10
+2025-2839|379|133975|200266,5-4 RET,E1_retired,retirement (used only in sensitivity check),Tenerife 2 CH,2025-02-10
+2025-2839|375|200374|105731,2-2 RET,E1_retired,retirement (used only in sensitivity check),Tenerife 2 CH,2025-02-10
+2025-2839|373|105807|105938,W/O,E2_walkover,no played structure,Tenerife 2 CH,2025-02-10
+2025-2839|366|106398|210012,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Tenerife 2 CH,2025-02-10
+2025-2839|350|200216|202127,6-4 1-0 RET,E1_retired,retirement (used only in sensitivity check),Tenerife 2 CH,2025-02-10
+2025-2961|376|209131|209127,6-2 1-0 RET,E1_retired,retirement (used only in sensitivity check),Brazzaville CH,2025-02-17
+2025-7916|382|208819|208902,7-6(5) 4-6 4-2 RET,E1_retired,retirement (used only in sensitivity check),Glasgow CH,2025-02-17
+2025-7916|349|207878|202400,6-2 1-2 RET,E1_retired,retirement (used only in sensitivity check),Glasgow CH,2025-02-17
+2025-9162|376|209259|104755,W/O,E2_walkover,no played structure,Pau CH,2025-02-17
+2025-9162|362|210696|131905,2-3 RET,E1_retired,retirement (used only in sensitivity check),Pau CH,2025-02-17
+2025-9162|342|209983|134794,2-0 RET,E1_retired,retirement (used only in sensitivity check),Pau CH,2025-02-17
+2025-7100|383|207494|126939,6-7(8) 6-0 3-1 RET,E1_retired,retirement (used only in sensitivity check),Pune CH,2025-02-17
+2025-7100|350|105655|202354,W/O,E2_walkover,no played structure,Pune CH,2025-02-17
+2025-7808|362|200374|200259,6-3 4-2 RET,E1_retired,retirement (used only in sensitivity check),Bengaluru CH,2025-02-24
+2025-7808|358|126129|111505,6-1 1-0 RET,E1_retired,retirement (used only in sensitivity check),Bengaluru CH,2025-02-24
+2025-2913|377|207231|202146,6-7(3) 7-6(2) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Kigali 1 CH,2025-02-24
+2025-2913|366|105814|123921,6-4 2-0 RET,E1_retired,retirement (used only in sensitivity check),Kigali 1 CH,2025-02-24
+2025-2913|361|207484|131905,7-5 2-0 RET,E1_retired,retirement (used only in sensitivity check),Kigali 1 CH,2025-02-24
+2025-2913|345|210155|207129,W/O,E2_walkover,no played structure,Kigali 1 CH,2025-02-24
+2025-9516|352|209326|106072,W/O,E2_walkover,no played structure,Lugano CH,2025-02-24
+2025-9516|342|210536|106187,6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Lugano CH,2025-02-24
+2025-2971|379|111794|106109,7-6(2) 1-1 RET,E1_retired,retirement (used only in sensitivity check),San Diego CH,2025-02-24
+2025-2981|383|202058|207678,6-4 4-3 RET,E1_retired,retirement (used only in sensitivity check),Cordoba CH,2025-03-03
+2025-2981|373|202058|105952,7-6(5) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Cordoba CH,2025-03-03
+2025-2981|364|208046|105911,3-6 6-4 5-4 RET,E1_retired,retirement (used only in sensitivity check),Cordoba CH,2025-03-03
+2025-2981|353|106380|207130,7-6(5) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Cordoba CH,2025-03-03
+2025-2981|349|206307|209875,6-1 1-0 RET,E1_retired,retirement (used only in sensitivity check),Cordoba CH,2025-03-03
+2025-2981|348|208099|122078,6-4 4-6 5-2 RET,E1_retired,retirement (used only in sensitivity check),Cordoba CH,2025-03-03
+2025-2983|367|200436|125847,6-4 3-1 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 1 CH,2025-03-03
+2025-2983|354|106234|202065,6-2 2-1 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 1 CH,2025-03-03
+2025-2983|346|206782|126772,6-6 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 1 CH,2025-03-03
+2025-2915|379|209911|123921,6-7(3) 6-0 2-0 RET,E1_retired,retirement (used only in sensitivity check),Kigali 2 CH,2025-03-03
+2025-2915|370|207704|207411,7-5 3-2 RET,E1_retired,retirement (used only in sensitivity check),Kigali 2 CH,2025-03-03
+2025-2973|381|207884|209414,W/O,E2_walkover,no played structure,Thionville CH,2025-03-03
+2025-2973|379|106432|200325,6-2 2-2 RET,E1_retired,retirement (used only in sensitivity check),Thionville CH,2025-03-03
+2025-2985|374|144985|200309,7-6(1) 5-2 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 2 CH,2025-03-10
+2025-2985|372|208210|208937,6-1 2-1 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 2 CH,2025-03-10
+2025-2985|367|200216|200484,6-4 4-0 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 2 CH,2025-03-10
+2025-2985|344|209916|206782,3-2 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 2 CH,2025-03-10
+2025-3406|368|144821|207815,6-2 6-7(3) 6-5 RET,E1_retired,retirement (used only in sensitivity check),Santiago CH,2025-03-10
+2025-3406|354|210005|208262,6-0 1-2 RET,E1_retired,retirement (used only in sensitivity check),Santiago CH,2025-03-10
+2025-2975|359|210317|105819,W/O,E2_walkover,no played structure,Cap Cana CH,2025-03-11
+2025-9167|372|105453|105062,6-3 2-1 RET,E1_retired,retirement (used only in sensitivity check),Phoenix CH,2025-03-11
+2025-9167|353|106034|209263,5-7 6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Phoenix CH,2025-03-11
+2025-9167|347|210107|144750,6-3 6-7(5) 2-0 RET,E1_retired,retirement (used only in sensitivity check),Phoenix CH,2025-03-11
+2025-9171|379|207411|208004,W/O,E2_walkover,no played structure,Murcia CH,2025-03-17
+2025-9171|374|106187|208021,4-6 6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Murcia CH,2025-03-17
+2025-9171|347|202148|200255,4-1 RET,E1_retired,retirement (used only in sensitivity check),Murcia CH,2025-03-17
+2025-9171|341|210398|126197,W/O,E2_walkover,no played structure,Murcia CH,2025-03-17
+2025-9171|340|131951|212082,7-5 0-0 RET,E1_retired,retirement (used only in sensitivity check),Murcia CH,2025-03-17
+2025-9472|384|106432|106000,6-4 1-0 RET,E1_retired,retirement (used only in sensitivity check),Zadar CH,2025-03-17
+2025-9472|375|202262|207494,3-6 6-4 4-2 RET,E1_retired,retirement (used only in sensitivity check),Zadar CH,2025-03-17
+2025-9472|352|209916|208421,2-3 RET,E1_retired,retirement (used only in sensitivity check),Zadar CH,2025-03-17
+2025-9472|348|105806|105373,3-6 6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Zadar CH,2025-03-17
+2025-9472|345|210053|126120,7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Zadar CH,2025-03-17
+2025-9452|340|138485|200331,6-1 4-2 RET,E1_retired,retirement (used only in sensitivity check),Concepcion CH,2025-03-24
+2025-2991|355|111153|106005,6-4 3-0 RET,E1_retired,retirement (used only in sensitivity check),Morelia CH,2025-03-24
+2025-2991|340|208854|206573,6-1 4-1 RET,E1_retired,retirement (used only in sensitivity check),Morelia CH,2025-03-24
+2025-2911|344|200188|209385,6-4 4-5 RET,E1_retired,retirement (used only in sensitivity check),Naples CH,2025-03-24
+2025-7494|376|207494|208421,W/O,E2_walkover,no played structure,Barletta CH,2025-03-31
+2025-7494|373|126964|126504,W/O,E2_walkover,no played structure,Barletta CH,2025-03-31
+2025-7494|337|211533|210558,6-2 1-1 RET,E1_retired,retirement (used only in sensitivity check),Barletta CH,2025-03-31
+2025-6963|372|210714|200514,7-5 2-6 4-0 RET,E1_retired,retirement (used only in sensitivity check),Cuernavaca CH,2025-03-31
+2025-2987|355|124116|202090,6-2 2-0 RET,E1_retired,retirement (used only in sensitivity check),Menorca CH,2025-03-31
+2025-2987|351|210005|105613,4-6 6-4 5-2 RET,E1_retired,retirement (used only in sensitivity check),Menorca CH,2025-03-31
+2025-2987|342|210005|126523,6-4 3-0 RET,E1_retired,retirement (used only in sensitivity check),Menorca CH,2025-03-31
+2025-9687|382|208316|200436,2-1 RET,E1_retired,retirement (used only in sensitivity check),Madrid CH,2025-04-07
+2025-2989|382|209920|123828,3-6 6-2 2-0 RET,E1_retired,retirement (used only in sensitivity check),Monza CH,2025-04-07
+2025-2989|365|209209|111576,6-2 1-0 RET,E1_retired,retirement (used only in sensitivity check),Monza CH,2025-04-07
+2025-2989|337|200329|105373,6-3 2-1 RET,E1_retired,retirement (used only in sensitivity check),Monza CH,2025-04-07
+2025-5069|369|212127|106264,4-4 RET,E1_retired,retirement (used only in sensitivity check),Sarasota CH,2025-04-07
+2025-2995|352|207129|211409,3-6 6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Abidjan 1 CH,2025-04-14
+2025-2995|347|212171|144970,1-6 7-6(2) 4-1 RET,E1_retired,retirement (used only in sensitivity check),Abidjan 1 CH,2025-04-14
+2025-9514|379|126128|105583,6-4 3-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 4 CH,2025-04-14
+2025-9514|373|209284|105062,W/O,E2_walkover,no played structure,Oeiras 4 CH,2025-04-14
+2025-9514|349|106187|200436,W/O,E2_walkover,no played structure,Oeiras 4 CH,2025-04-14
+2025-9514|347|208069|125847,6-1 4-2 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 4 CH,2025-04-14
+2025-0213|374|101495|200452,4-6 6-3 2-0 RET,E1_retired,retirement (used only in sensitivity check),San Luis Potosi CH,2025-04-14
+2025-0213|351|101495|200598,6-0 5-0 RET,E1_retired,retirement (used only in sensitivity check),San Luis Potosi CH,2025-04-14
+2025-0692|359|206307|144870,6-4 3-2 RET,E1_retired,retirement (used only in sensitivity check),Tallahassee CH,2025-04-14
+2025-0692|340|144841|106203,6-7(8) 6-4 3-0 RET,E1_retired,retirement (used only in sensitivity check),Tallahassee CH,2025-04-14
+2025-2997|381|126107|211325,7-6(7) 2-2 RET,E1_retired,retirement (used only in sensitivity check),Abidjan 2 CH,2025-04-21
+2025-2997|374|105575|207129,W/O,E2_walkover,no played structure,Abidjan 2 CH,2025-04-21
+2025-2997|368|208144|210389,6-4 1-6 4-1 RET,E1_retired,retirement (used only in sensitivity check),Abidjan 2 CH,2025-04-21
+2025-2997|362|105575|105332,7-6(4) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Abidjan 2 CH,2025-04-21
+2025-2997|341|200297|200681,6-1 3-2 RET,E1_retired,retirement (used only in sensitivity check),Abidjan 2 CH,2025-04-21
+2025-7490|377|126409|106034,W/O,E2_walkover,no played structure,Gwangju CH,2025-04-21
+2025-7490|358|208230|209279,7-6(1) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Gwangju CH,2025-04-21
+2025-7490|352|111187|105339,W/O,E2_walkover,no played structure,Gwangju CH,2025-04-21
+2025-7490|347|209951|106227,6-7(2) 5-1 RET,E1_retired,retirement (used only in sensitivity check),Gwangju CH,2025-04-21
+2025-2151|383|209263|207491,W/O,E2_walkover,no played structure,Rome CH,2025-04-21
+2025-2151|376|207608|105882,W/O,E2_walkover,no played structure,Rome CH,2025-04-21
+2025-2927|382|105911|105487,3-6 7-6(3) 4-5 RET,E1_retired,retirement (used only in sensitivity check),San Miguel de Tucuman CH,2025-04-21
+2025-2927|348|211636|200331,6-3 5-1 RET,E1_retired,retirement (used only in sensitivity check),San Miguel de Tucuman CH,2025-04-21
+2025-2927|342|208613|208132,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),San Miguel de Tucuman CH,2025-04-21
+2025-5067|377|111578|144972,6-1 3-1 RET,E1_retired,retirement (used only in sensitivity check),Savannah CH,2025-04-21
+2025-6965|376|209262|200647,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Guangzhou CH,2025-04-28
+2025-9697|382|208843|210696,W/O,E2_walkover,no played structure,Mauthausen CH,2025-04-28
+2025-1797|345|213579|207415,2-1 RET,E1_retired,retirement (used only in sensitivity check),Ostrava CH,2025-04-28
+2025-2919|376|144973|209254,5-3 RET,E1_retired,retirement (used only in sensitivity check),Porto Alegre CH,2025-04-28
+2025-2919|365|209254|208262,6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Porto Alegre CH,2025-04-28
+2025-2919|352|138485|126149,6-4 1-0 RET,E1_retired,retirement (used only in sensitivity check),Porto Alegre CH,2025-04-28
+2025-2919|344|126149|207595,6-3 4-0 RET,E1_retired,retirement (used only in sensitivity check),Porto Alegre CH,2025-04-28
+2025-2919|342|106044|207736,6-2 4-6 4-0 RET,E1_retired,retirement (used only in sensitivity check),Porto Alegre CH,2025-04-28
+2025-7009|379|209860|124187,7-6(4) 2-3 RET,E1_retired,retirement (used only in sensitivity check),Aix-en-Provence CH,2025-04-29
+2025-7009|365|127339|200384,7-6(4) 2-1 RET,E1_retired,retirement (used only in sensitivity check),Aix-en-Provence CH,2025-04-29
+2025-7009|355|105077|208169,7-6(5) 2-0 RET,E1_retired,retirement (used only in sensitivity check),Aix-en-Provence CH,2025-04-29
+2025-7009|351|200473|126125,6-3 4-0 RET,E1_retired,retirement (used only in sensitivity check),Aix-en-Provence CH,2025-04-29
+2025-7707|384|208353|208502,3-6 7-6(7) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Francavilla al Mare CH,2025-05-05
+2025-7707|368|106293|105911,2-6 7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Francavilla al Mare CH,2025-05-05
+2025-0600|377|127760|105062,W/O,E2_walkover,no played structure,Prague CH,2025-05-05
+2025-2923|367|208364|212780,4-6 6-1 5-0 RET,E1_retired,retirement (used only in sensitivity check),Santos CH,2025-05-05
+2025-2923|360|106292|144973,6-7(3) 6-3 5-1 RET,E1_retired,retirement (used only in sensitivity check),Santos CH,2025-05-05
+2025-2921|370|210318|200443,6-4 4-1 RET,E1_retired,retirement (used only in sensitivity check),Wuxi CH,2025-05-05
+2025-2921|368|209899|144751,7-5 3-3 RET,E1_retired,retirement (used only in sensitivity check),Wuxi CH,2025-05-05
+2025-2921|363|126106|210317,6-2 3-2 RET,E1_retired,retirement (used only in sensitivity check),Wuxi CH,2025-05-05
+2025-2921|345|106290|208055,6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Wuxi CH,2025-05-05
+2025-7389|348|212830|138485,7-6(2) 1-2 RET,E1_retired,retirement (used only in sensitivity check),Bogota CH,2025-05-12
+2025-9475|364|144821|208278,2-6 7-6(6) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 5 CH,2025-05-12
+2025-9475|358|111200|200335,6-1 3-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 5 CH,2025-05-12
+2025-9475|356|105671|209857,3-6 5-2 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 5 CH,2025-05-12
+2025-1541|381|208169|105948,6-1 1-1 RET,E1_retired,retirement (used only in sensitivity check),Tunis CH,2025-05-12
+2025-1541|363|202122|105332,4-1 RET,E1_retired,retirement (used only in sensitivity check),Tunis CH,2025-05-12
+2025-1541|349|200385|208104,4-3 RET,E1_retired,retirement (used only in sensitivity check),Tunis CH,2025-05-12
+2025-1541|338|200385|200298,5-1 RET,E1_retired,retirement (used only in sensitivity check),Tunis CH,2025-05-12
+2025-9500|385|209976|209414,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Zagreb CH,2025-05-12
+2025-9500|355|208843|202320,6-2 4-0 RET,E1_retired,retirement (used only in sensitivity check),Zagreb CH,2025-05-12
+2025-3824|360|133975|106296,6-3 3-1 RET,E1_retired,retirement (used only in sensitivity check),Bordeaux CH,2025-05-13
+2025-3824|351|126523|210338,5-2 RET,E1_retired,retirement (used only in sensitivity check),Bordeaux CH,2025-05-13
+2025-2863|379|207352|208859,5-5 RET,E1_retired,retirement (used only in sensitivity check),Turin CH,2025-05-13
+2025-2869|338|209182|105806,6-7(5) 2-2 RET,E1_retired,retirement (used only in sensitivity check),Skopje CH,2025-05-19
+2025-2925|379|102093|207785,W/O,E2_walkover,no played structure,Tbilisi CH,2025-05-19
+2025-2925|350|208144|210250,6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Tbilisi CH,2025-05-19
+2025-2993|357|210142|126762,7-6(6) 2-0 RET,E1_retired,retirement (used only in sensitivity check),Chisinau CH,2025-05-26
+2025-2993|340|206912|207248,6-1 1-0 RET,E1_retired,retirement (used only in sensitivity check),Chisinau CH,2025-05-26
+2025-9188|369|208342|126555,7-6(3) 5-4 RET,E1_retired,retirement (used only in sensitivity check),Little Rock CH,2025-05-26
+2025-9188|358|211501|144973,7-5 5-1 RET,E1_retired,retirement (used only in sensitivity check),Little Rock CH,2025-05-26
+2025-9188|350|212251|126208,6-4 1-2 RET,E1_retired,retirement (used only in sensitivity check),Little Rock CH,2025-05-26
+2025-9188|343|211790|202297,6-3 2-0 RET,E1_retired,retirement (used only in sensitivity check),Little Rock CH,2025-05-26
+2025-7015|383|209903|208843,W/O,E2_walkover,no played structure,Vicenza CH,2025-05-26
+2025-7015|355|208843|209406,6-4 6-7(6) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Vicenza CH,2025-05-26
+2025-7015|343|208293|109303,7-6(4) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Vicenza CH,2025-05-26
+2025-4940|377|212256|134457,6-3 0-1 RET,E1_retired,retirement (used only in sensitivity check),Birmingham CH,2025-06-02
+2025-4940|355|105173|106415,7-6(1) 3-2 RET,E1_retired,retirement (used only in sensitivity check),Birmingham CH,2025-06-02
+2025-0460|377|209916|208502,6-7(5) 7-6(4) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Heilbronn CH,2025-06-02
+2025-0460|345|202239|207669,W/O,E2_walkover,no played structure,Heilbronn CH,2025-06-02
+2025-0460|343|210686|126523,7-5 4-1 RET,E1_retired,retirement (used only in sensitivity check),Heilbronn CH,2025-06-02
+2025-0558|351|210558|210556,6-7(3) 6-1 2-1 RET,E1_retired,retirement (used only in sensitivity check),Prostejov CH,2025-06-02
+2025-2873|383|212044|200516,W/O,E2_walkover,no played structure,Tyler CH,2025-06-02
+2025-2873|356|125802|210744,3-6 6-1 4-1 RET,E1_retired,retirement (used only in sensitivity check),Tyler CH,2025-06-02
+2025-2873|355|212216|208119,1-1 RET,E1_retired,retirement (used only in sensitivity check),Tyler CH,2025-06-02
+2025-2873|354|126206|207728,6-7(4) 7-6(5) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Tyler CH,2025-06-02
+2025-2873|350|200059|202195,7-5 0-0 RET,E1_retired,retirement (used only in sensitivity check),Tyler CH,2025-06-02
+2025-2873|342|206573|106044,6-4 1-0 RET,E1_retired,retirement (used only in sensitivity check),Tyler CH,2025-06-02
+2025-9003|359|212063|210262,7-5 2-0 RET,E1_retired,retirement (used only in sensitivity check),Bratislava CH,2025-06-09
+2025-7536|369|200266|207546,6-4 2-2 RET,E1_retired,retirement (used only in sensitivity check),Lyon CH,2025-06-09
+2025-7536|361|123809|202354,2-1 RET,E1_retired,retirement (used only in sensitivity check),Lyon CH,2025-06-09
+2025-9001|362|207494|209405,6-2 4-1 RET,E1_retired,retirement (used only in sensitivity check),Perugia CH,2025-06-09
+2025-7740|371|105227|144750,2-6 6-4 3-1 RET,E1_retired,retirement (used only in sensitivity check),Nottingham 2 CH,2025-06-16
+2025-0786|358|209226|106057,6-3 3-1 RET,E1_retired,retirement (used only in sensitivity check),Poznan CH,2025-06-16
+2025-9479|376|123993|144821,4-1 RET,E1_retired,retirement (used only in sensitivity check),Santa Cruz de la Sierra CH,2025-06-16
+2025-9479|362|210545|105952,6-4 5-1 RET,E1_retired,retirement (used only in sensitivity check),Santa Cruz de la Sierra CH,2025-06-16
+2025-9479|337|207595|105944,7-5 3-0 RET,E1_retired,retirement (used only in sensitivity check),Santa Cruz de la Sierra CH,2025-06-16
+2025-9835|384|126535|208859,6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Sassuolo CH,2025-06-16
+2025-9835|347|207764|126149,7-5 0-0 RET,E1_retired,retirement (used only in sensitivity check),Sassuolo CH,2025-06-16
+2025-9835|344|200255|209916,3-6 6-6 RET,E1_retired,retirement (used only in sensitivity check),Sassuolo CH,2025-06-16
+2025-2787|374|208293|106292,6-2 2-0 RET,E1_retired,retirement (used only in sensitivity check),Lima CH,2025-06-23
+2025-2787|364|209875|210377,7-5 2-0 RET,E1_retired,retirement (used only in sensitivity check),Lima CH,2025-06-23
+2025-2787|346|209898|122081,6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Lima CH,2025-06-23
+2025-3463|369|202235|202260,7-6(5) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Milan CH,2025-06-23
+2025-3463|362|106393|106072,6-3 1-1 RET,E1_retired,retirement (used only in sensitivity check),Milan CH,2025-06-23
+2025-3463|339|212749|207491,6-2 4-1 RET,E1_retired,retirement (used only in sensitivity check),Milan CH,2025-06-23
+2025-2877|353|208024|134840,6-1 2-0 RET,E1_retired,retirement (used only in sensitivity check),Modena CH,2025-06-30
+2025-2877|345|208024|210425,6-2 3-1 RET,E1_retired,retirement (used only in sensitivity check),Modena CH,2025-06-30
+2025-2877|340|212241|126523,5-5 RET,E1_retired,retirement (used only in sensitivity check),Modena CH,2025-06-30
+2025-1214|356|209983|144707,4-6 6-4 3-0 RET,E1_retired,retirement (used only in sensitivity check),Troyes CH,2025-06-30
+2025-0526|379|144684|106148,6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Braunschweig CH,2025-07-07
+2025-0526|349|105613|209182,W/O,E2_walkover,no played structure,Braunschweig CH,2025-07-07
+2025-8394|377|206307|200335,7-6(3) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Iasi CH,2025-07-07
+2025-8394|362|202262|123921,5-1 RET,E1_retired,retirement (used only in sensitivity check),Iasi CH,2025-07-07
+2025-8394|357|202398|208223,7-6(2) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Iasi CH,2025-07-07
+2025-0315|376|209262|210317,6-7(5) 7-6(5) 4-0 RET,E1_retired,retirement (used only in sensitivity check),Newport CH,2025-07-07
+2025-3007|382|106378|200452,7-6(4) 4-3 RET,E1_retired,retirement (used only in sensitivity check),Nottingham 3 CH,2025-07-07
+2025-3007|374|202400|210747,W/O,E2_walkover,no played structure,Nottingham 3 CH,2025-07-07
+2025-9351|365|200514|206748,2-6 6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Trieste CH,2025-07-07
+2025-9351|338|210315|134840,6-2 4-0 RET,E1_retired,retirement (used only in sensitivity check),Trieste CH,2025-07-07
+2025-7542|342|206750|202153,6-0 4-1 RET,E1_retired,retirement (used only in sensitivity check),Winnipeg CH,2025-07-07
+2025-0877|376|202122|133297,W/O,E2_walkover,no played structure,Granby CH,2025-07-14
+2025-9540|375|202146|144870,3-6 7-6(3) 1-1 RET,E1_retired,retirement (used only in sensitivity check),San Marino CH,2025-07-14
+2025-9540|345|106380|212077,3-6 6-2 3-1 RET,E1_retired,retirement (used only in sensitivity check),San Marino CH,2025-07-14
+2025-2883|356|200677|208278,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Bloomfield Hills CH,2025-07-21
+2025-2883|338|210077|201987,6-3 2-0 RET,E1_retired,retirement (used only in sensitivity check),Bloomfield Hills CH,2025-07-21
+2025-0783|376|200374|144826,W/O,E2_walkover,no played structure,Segovia CH,2025-07-21
+2025-0783|345|208126|211639,2-4 RET,E1_retired,retirement (used only in sensitivity check),Segovia CH,2025-07-21
+2025-0783|341|212827|208025,7-5 3-2 RET,E1_retired,retirement (used only in sensitivity check),Segovia CH,2025-07-21
+2025-0221|379|149282|207231,6-0 4-0 RET,E1_retired,retirement (used only in sensitivity check),Tampere CH,2025-07-21
+2025-0221|365|212225|207608,7-6(2) 4-0 RET,E1_retired,retirement (used only in sensitivity check),Tampere CH,2025-07-21
+2025-0221|350|144684|209337,5-1 RET,E1_retired,retirement (used only in sensitivity check),Tampere CH,2025-07-21
+2025-9533|377|209406|209959,4-6 6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Astana CH,2025-07-28
+2025-9533|363|208240|209951,6-3 2-1 RET,E1_retired,retirement (used only in sensitivity check),Astana CH,2025-07-28
+2025-0586|371|208118|210536,7-6(5) 6-7(7) 4-3 RET,E1_retired,retirement (used only in sensitivity check),Lexington CH,2025-07-28
+2025-0586|368|207987|117357,6-7(2) 7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Lexington CH,2025-07-28
+2025-0586|359|200711|200416,6-7(5) 7-5 5-1 RET,E1_retired,retirement (used only in sensitivity check),Lexington CH,2025-07-28
+2025-0586|357|210136|144750,7-5 4-2 RET,E1_retired,retirement (used only in sensitivity check),Lexington CH,2025-07-28
+2025-0586|354|207987|126555,3-6 4-1 RET,E1_retired,retirement (used only in sensitivity check),Lexington CH,2025-07-28
+2025-0586|353|208854|102093,7-5 3-6 3-0 RET,E1_retired,retirement (used only in sensitivity check),Lexington CH,2025-07-28
+2025-0586|340|202290|111788,7-6(4) 5-1 RET,E1_retired,retirement (used only in sensitivity check),Lexington CH,2025-07-28
+2025-6795|385|208293|144821,6-2 2-0 RET,E1_retired,retirement (used only in sensitivity check),Liberec CH,2025-07-28
+2025-6795|375|144821|209875,6-0 1-0 RET,E1_retired,retirement (used only in sensitivity check),Liberec CH,2025-07-28
+2025-9526|368|207130|200374,7-6(1) 4-6 2-0 RET,E1_retired,retirement (used only in sensitivity check),Porto CH,2025-07-28
+2025-2935|380|207608|210200,6-0 3-0 RET,E1_retired,retirement (used only in sensitivity check),Bonn CH,2025-08-04
+2025-2935|353|208046|144707,W/O,E2_walkover,no played structure,Bonn CH,2025-08-04
+2025-2797|377|208144|207969,4-6 7-5 4-2 RET,E1_retired,retirement (used only in sensitivity check),Chicago CH,2025-08-04
+2025-2797|367|207969|106071,6-7(3) 7-6(4) 2-0 RET,E1_retired,retirement (used only in sensitivity check),Chicago CH,2025-08-04
+2025-2797|348|111578|106368,6-1 6-7(4) 5-3 RET,E1_retired,retirement (used only in sensitivity check),Chicago CH,2025-08-04
+2025-2120|353|144645|208322,W/O,E2_walkover,no played structure,Cordenons CH,2025-08-04
+2025-2120|349|210178|211667,5-1 RET,E1_retired,retirement (used only in sensitivity check),Cordenons CH,2025-08-04
+2025-2789|351|212588|209182,6-2 1-0 RET,E1_retired,retirement (used only in sensitivity check),Grodzisk Mazowiecki CH,2025-08-04
+2025-2789|349|210091|105575,6-6 RET,E1_retired,retirement (used only in sensitivity check),Grodzisk Mazowiecki CH,2025-08-04
+2025-6250|385|209259|106071,W/O,E2_walkover,no played structure,Barranquilla CH,2025-08-11
+2025-6250|373|106071|105487,W/O,E2_walkover,no played structure,Barranquilla CH,2025-08-11
+2025-6250|362|200711|212258,7-6(3) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Barranquilla CH,2025-08-11
+2025-3017|384|212588|210557,6-2 2-0 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 3 CH,2025-08-11
+2025-3017|373|209264|200346,5-7 0-0 Def.,E3_default,default,Hersonissos 3 CH,2025-08-11
+2025-3017|356|210472|209080,5-2 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 3 CH,2025-08-11
+2025-3017|355|209354|200309,6-4 3-0 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 3 CH,2025-08-11
+2025-3017|351|210039|208092,6-7(13) 4-0 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 3 CH,2025-08-11
+2025-3017|349|210494|205842,4-1 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 3 CH,2025-08-11
+2025-3017|348|207407|208257,6-2 5-2 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 3 CH,2025-08-11
+2025-3017|342|208092|104729,3-6 6-1 2-0 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 3 CH,2025-08-11
+2025-3017|337|210494|126165,6-0 0-0 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 3 CH,2025-08-11
+2025-2043|384|144645|123983,6-0 0-0 RET,E1_retired,retirement (used only in sensitivity check),Sofia 1 CH,2025-08-11
+2025-2043|366|210650|202262,7-6(7) 3-2 RET,E1_retired,retirement (used only in sensitivity check),Sofia 1 CH,2025-08-11
+2025-2043|345|212748|106172,6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Sofia 1 CH,2025-08-11
+2025-8392|376|149282|207799,7-6(2) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Todi CH,2025-08-11
+2025-8392|353|208285|208104,W/O,E2_walkover,no played structure,Todi CH,2025-08-11
+2025-3009|366|200677|208010,6-4 4-2 RET,E1_retired,retirement (used only in sensitivity check),Cancun CH,2025-08-12
+2025-3009|364|208882|105583,5-3 RET,E1_retired,retirement (used only in sensitivity check),Cancun CH,2025-08-12
+2025-3009|362|202058|209263,6-1 4-2 RET,E1_retired,retirement (used only in sensitivity check),Cancun CH,2025-08-12
+2025-3009|357|208603|131905,5-2 RET,E1_retired,retirement (used only in sensitivity check),Cancun CH,2025-08-12
+2025-3015|390|208233|207686,7-6(5) 3-1 RET,E1_retired,retirement (used only in sensitivity check),Sumter CH,2025-08-12
+2025-3015|384|207686|105932,3-6 7-6(3) 4-1 RET,E1_retired,retirement (used only in sensitivity check),Sumter CH,2025-08-12
+2025-3015|382|210262|210744,3-6 6-0 4-1 RET,E1_retired,retirement (used only in sensitivity check),Sumter CH,2025-08-12
+2025-3015|371|210317|207985,3-6 7-5 0-0 RET,E1_retired,retirement (used only in sensitivity check),Sumter CH,2025-08-12
+2025-3015|370|127760|202342,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Sumter CH,2025-08-12
+2025-3015|358|126177|105359,6-3 5-4 RET,E1_retired,retirement (used only in sensitivity check),Sumter CH,2025-08-12
+2025-8266|381|105649|210063,6-0 3-1 RET,E1_retired,retirement (used only in sensitivity check),Augsburg CH,2025-08-18
+2025-8266|357|212268|210556,1-6 7-6(4) 3-2 RET,E1_retired,retirement (used only in sensitivity check),Augsburg CH,2025-08-18
+2025-8266|346|149145|105130,6-4 1-0 RET,E1_retired,retirement (used only in sensitivity check),Augsburg CH,2025-08-18
+2025-3019|385|121411|200385,5-7 6-4 3-0 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 4 CH,2025-08-18
+2025-3019|347|211324|202065,6-0 1-0 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 4 CH,2025-08-18
+2025-3473|374|208913|105882,1-6 7-5 3-0 RET,E1_retired,retirement (used only in sensitivity check),Como CH,2025-08-25
+2025-3473|355|106329|106310,4-2 RET,E1_retired,retirement (used only in sensitivity check),Como CH,2025-08-25
+2025-2933|356|209095|208297,4-2 RET,E1_retired,retirement (used only in sensitivity check),Porto 2 CH,2025-08-25
+2025-7783|357|202356|144682,6-1 6-7(4) 3-2 RET,E1_retired,retirement (used only in sensitivity check),Zhangjiagang CH,2025-08-25
+2025-7783|348|212465|208937,1-6 6-4 4-0 RET,E1_retired,retirement (used only in sensitivity check),Zhangjiagang CH,2025-08-25
+2025-7783|346|144682|117359,W/O,E2_walkover,no played structure,Zhangjiagang CH,2025-08-25
+2025-7783|344|206916|208055,6-4 1-0 RET,E1_retired,retirement (used only in sensitivity check),Zhangjiagang CH,2025-08-25
+2025-7783|339|106227|144681,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Zhangjiagang CH,2025-08-25
+2025-7973|384|209405|208004,6-7(2) 7-5 4-1 RET,E1_retired,retirement (used only in sensitivity check),Manacor CH,2025-08-26
+2025-7973|381|208004|206912,7-5 6-7(8) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Manacor CH,2025-08-26
+2025-7973|367|101495|123921,6-3 4-1 RET,E1_retired,retirement (used only in sensitivity check),Manacor CH,2025-08-26
+2025-7973|365|202075|144817,7-6(3) 6-7(6) 3-2 RET,E1_retired,retirement (used only in sensitivity check),Manacor CH,2025-08-26
+2025-7973|339|211897|106362,2-6 4-5 RET,E1_retired,retirement (used only in sensitivity check),Manacor CH,2025-08-26
+2025-1763|371|208104|208223,W/O,E2_walkover,no played structure,Genoa CH,2025-09-01
+2025-7083|371|208852|202261,6-2 3-1 RET,E1_retired,retirement (used only in sensitivity check),Istanbul CH,2025-09-01
+2025-7083|368|200711|125802,6-2 2-1 RET,E1_retired,retirement (used only in sensitivity check),Istanbul CH,2025-09-01
+2025-7083|360|144684|104729,6-4 1-0 RET,E1_retired,retirement (used only in sensitivity check),Istanbul CH,2025-09-01
+2025-0784|384|144821|105583,7-5 3-2 RET,E1_retired,retirement (used only in sensitivity check),Seville CH,2025-09-01
+2025-0784|371|126535|209911,6-3 3-1 RET,E1_retired,retirement (used only in sensitivity check),Seville CH,2025-09-01
+2025-0784|370|144821|106148,5-7 7-6(4) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Seville CH,2025-09-01
+2025-0784|340|208024|208605,6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Seville CH,2025-09-01
+2025-6313|378|106290|105554,6-4 3-6 2-2 RET,E1_retired,retirement (used only in sensitivity check),Shanghai CH,2025-09-01
+2025-6313|369|106290|209414,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Shanghai CH,2025-09-01
+2025-6313|366|212044|106415,2-6 7-6(5) 2-0 RET,E1_retired,retirement (used only in sensitivity check),Shanghai CH,2025-09-01
+2025-6313|361|117357|144751,4-6 6-2 2-0 RET,E1_retired,retirement (used only in sensitivity check),Shanghai CH,2025-09-01
+2025-6313|348|206916|106187,4-6 6-4 2-0 RET,E1_retired,retirement (used only in sensitivity check),Shanghai CH,2025-09-01
+2025-6313|340|105655|214010,6-4 5-0 RET,E1_retired,retirement (used only in sensitivity check),Shanghai CH,2025-09-01
+2025-9556|347|126878|206589,W/O,E2_walkover,no played structure,Tulln CH,2025-09-01
+2025-7085|374|210053|144716,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Biella CH,2025-09-08
+2025-7085|372|206467|105882,W/O,E2_walkover,no played structure,Biella CH,2025-09-08
+2025-7085|368|106310|210167,6-2 4-4 RET,E1_retired,retirement (used only in sensitivity check),Biella CH,2025-09-08
+2025-7085|339|132831|200681,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Biella CH,2025-09-08
+2025-2937|384|126214|106331,2-1 RET,E1_retired,retirement (used only in sensitivity check),Guangzhou Huangpu CH,2025-09-08
+2025-2937|379|207678|105554,4-6 1-2 RET,E1_retired,retirement (used only in sensitivity check),Guangzhou Huangpu CH,2025-09-08
+2025-2937|376|210460|206748,6-4 1-0 RET,E1_retired,retirement (used only in sensitivity check),Guangzhou Huangpu CH,2025-09-08
+2025-2937|373|206904|210317,6-1 4-1 RET,E1_retired,retirement (used only in sensitivity check),Guangzhou Huangpu CH,2025-09-08
+2025-2937|371|207678|209951,6-1 2-1 RET,E1_retired,retirement (used only in sensitivity check),Guangzhou Huangpu CH,2025-09-08
+2025-2937|362|126129|106187,6-4 4-0 RET,E1_retired,retirement (used only in sensitivity check),Guangzhou Huangpu CH,2025-09-08
+2025-2937|346|144730|200225,5-7 7-5 1-2 RET,E1_retired,retirement (used only in sensitivity check),Guangzhou Huangpu CH,2025-09-08
+2025-3503|378|200384|111505,6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Rennes CH,2025-09-08
+2025-0448|357|211500|208343,7-6(8) 2-1 RET,E1_retired,retirement (used only in sensitivity check),Szczecin CH,2025-09-08
+2025-0448|350|202398|210556,4-3 RET,E1_retired,retirement (used only in sensitivity check),Szczecin CH,2025-09-08
+2025-3021|385|105477|209890,6-1 0-0 RET,E1_retired,retirement (used only in sensitivity check),Targu Mures CH,2025-09-08
+2025-3021|359|212598|200374,6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Targu Mures CH,2025-09-08
+2025-3011|374|212588|210523,6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Winston Salem CH,2025-09-08
+2025-2891|370|209916|124079,6-1 3-0 RET,E1_retired,retirement (used only in sensitivity check),Bad Waltersdorf CH,2025-09-15
+2025-2891|349|110602|210042,4-6 6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Bad Waltersdorf CH,2025-09-15
+2025-2891|341|210054|209931,W/O,E2_walkover,no played structure,Bad Waltersdorf CH,2025-09-15
+2025-2891|339|202366|126197,7-6(1) 5-5 RET,E1_retired,retirement (used only in sensitivity check),Bad Waltersdorf CH,2025-09-15
+2025-8281|370|132041|126663,4-0 RET,E1_retired,retirement (used only in sensitivity check),Columbus CH,2025-09-15
+2025-9552|384|200385|104527,W/O,E2_walkover,no played structure,Saint-Tropez CH,2025-09-15
+2025-9552|378|212021|200309,6-1 4-0 RET,E1_retired,retirement (used only in sensitivity check),Saint-Tropez CH,2025-09-15
+2025-9552|372|210136|144684,4-6 6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Saint-Tropez CH,2025-09-15
+2025-2811|374|105487|105911,W/O,E2_walkover,no played structure,Villa Maria CH,2025-09-15
+2025-3023|382|207732|208104,6-3 3-2 RET,E1_retired,retirement (used only in sensitivity check),Targu Mures 2 CH,2025-09-16
+2025-3023|363|208024|105841,7-6(2) 2-1 RET,E1_retired,retirement (used only in sensitivity check),Targu Mures 2 CH,2025-09-16
+2025-7395|374|209875|106198,6-1 1-0 RET,E1_retired,retirement (used only in sensitivity check),Buenos Aires CH,2025-09-22
+2025-3013|381|208118|144750,7-6(4) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Jingshan CH,2025-09-22
+2025-3013|353|144750|132573,6-1 1-2 RET,E1_retired,retirement (used only in sensitivity check),Jingshan CH,2025-09-22
+2025-7345|356|207728|210494,3-6 4-1 RET,E1_retired,retirement (used only in sensitivity check),Las Vegas CH,2025-09-22
+2025-7742|376|208010|106148,6-4 3-0 RET,E1_retired,retirement (used only in sensitivity check),Lisbon CH,2025-09-22
+2025-7742|353|208279|126197,W/O,E2_walkover,no played structure,Lisbon CH,2025-09-22
+2025-7742|345|126197|208421,4-6 6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Lisbon CH,2025-09-22
+2025-2273|375|211514|209263,W/O,E2_walkover,no played structure,Orleans CH,2025-09-22
+2025-2273|360|200329|123921,5-0 RET,E1_retired,retirement (used only in sensitivity check),Orleans CH,2025-09-22
+2025-2273|356|210220|105332,1-6 6-2 3-0 RET,E1_retired,retirement (used only in sensitivity check),Orleans CH,2025-09-22
+2025-2889|376|206307|105487,W/O,E2_walkover,no played structure,Antofagasta CH,2025-09-29
+2025-7913|371|111576|106148,5-7 4-1 RET,E1_retired,retirement (used only in sensitivity check),Braga CH,2025-09-29
+2025-7913|368|144645|208069,5-0 RET,E1_retired,retirement (used only in sensitivity check),Braga CH,2025-09-29
+2025-7913|359|209284|111200,1-2 RET,E1_retired,retirement (used only in sensitivity check),Braga CH,2025-09-29
+2025-6857|377|209259|144972,6-2 3-1 RET,E1_retired,retirement (used only in sensitivity check),Mouilleron le Captif CH,2025-09-29
+2025-3025|377|105430|106220,W/O,E2_walkover,no played structure,Hersonissos 5 CH,2025-10-06
+2025-3025|360|208253|210409,1-0 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 5 CH,2025-10-06
+2025-3025|354|208253|209302,7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 5 CH,2025-10-06
+2025-3025|340|212029|210142,6-7(4) 3-1 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 5 CH,2025-10-06
+2025-7746|369|208119|106331,4-6 1-1 RET,E1_retired,retirement (used only in sensitivity check),Jinan CH,2025-10-06
+2025-9625|382|212063|208502,3-2 RET,E1_retired,retirement (used only in sensitivity check),Roanne CH,2025-10-06
+2025-9625|371|123921|111442,5-2 RET,E1_retired,retirement (used only in sensitivity check),Roanne CH,2025-10-06
+2025-2823|374|105477|207546,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Valencia CH,2025-10-06
+2025-2823|359|126535|212309,3-6 6-4 4-2 RET,E1_retired,retirement (used only in sensitivity check),Valencia CH,2025-10-06
+2025-2895|343|106203|110774,1-1 RET,E1_retired,retirement (used only in sensitivity check),Curitiba CH,2025-10-13
+2025-3029|359|207171|144972,6-2 3-0 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 6 CH,2025-10-13
+2025-3029|339|132744|106075,6-4 3-0 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 6 CH,2025-10-13
+2025-2941|370|200587|211325,4-6 6-4 4-1 RET,E1_retired,retirement (used only in sensitivity check),Lincoln CH,2025-10-13
+2025-3027|375|212044|126165,W/O,E2_walkover,no played structure,Shenzhen Futian CH,2025-10-13
+2025-3027|374|111187|105359,6-3 2-0 RET,E1_retired,retirement (used only in sensitivity check),Shenzhen Futian CH,2025-10-13
+2025-3027|365|111202|144751,7-6(4) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Shenzhen Futian CH,2025-10-13
+2025-3027|360|117357|106034,7-6(5) 1-0 RET,E1_retired,retirement (used only in sensitivity check),Shenzhen Futian CH,2025-10-13
+2025-3027|352|133794|208876,6-0 2-0 RET,E1_retired,retirement (used only in sensitivity check),Shenzhen Futian CH,2025-10-13
+2025-3031|387|209226|106426,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Costa do Sauipe CH,2025-10-20
+2025-3031|348|105700|126183,5-1 RET,E1_retired,retirement (used only in sensitivity check),Costa do Sauipe CH,2025-10-20
+2025-8297|374|207785|206750,W/O,E2_walkover,no played structure,Hamburg CH,2025-10-20
+2025-8297|371|210167|208210,5-7 3-1 RET,E1_retired,retirement (used only in sensitivity check),Hamburg CH,2025-10-20
+2025-2951|382|200346|111442,7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Sioux Falls CH,2025-10-20
+2025-2951|355|210318|200587,4-3 RET,E1_retired,retirement (used only in sensitivity check),Sioux Falls CH,2025-10-20
+2025-3033|374|208004|211897,6-0 3-0 RET,E1_retired,retirement (used only in sensitivity check),Suzhou CH,2025-10-20
+2025-3033|367|209899|200647,7-5 3-2 RET,E1_retired,retirement (used only in sensitivity check),Suzhou CH,2025-10-20
+2025-3033|365|126208|200666,6-7(7) 6-4 5-4 RET,E1_retired,retirement (used only in sensitivity check),Suzhou CH,2025-10-20
+2025-3033|363|144750|106186,6-3 4-0 RET,E1_retired,retirement (used only in sensitivity check),Suzhou CH,2025-10-20
+2025-6055|383|212588|208902,6-4 4-2 RET,E1_retired,retirement (used only in sensitivity check),Charlottesville CH,2025-10-27
+2025-6055|344|211325|212258,6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Charlottesville CH,2025-10-27
+2025-3049|364|208223|208293,7-6(6) 3-1 RET,E1_retired,retirement (used only in sensitivity check),Lima Los Inkas CH,2025-10-27
+2025-3049|355|212785|207678,1-6 4-1 RET,E1_retired,retirement (used only in sensitivity check),Lima Los Inkas CH,2025-10-27
+2025-3035|350|207368|202366,6-6 RET,E1_retired,retirement (used only in sensitivity check),Monastir CH,2025-10-27
+2025-3035|342|212077|144748,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Monastir CH,2025-10-27
+2025-7288|363|210121|133297,5-2 RET,E1_retired,retirement (used only in sensitivity check),Seoul CH,2025-10-27
+2025-8310|345|206912|105062,6-2 5-2 RET,E1_retired,retirement (used only in sensitivity check),Helsinki CH,2025-11-03
+2025-0363|369|208540|200346,6-1 2-0 RET,E1_retired,retirement (used only in sensitivity check),Knoxville CH,2025-11-03
+2025-8386|369|126337|207728,3-2 RET,E1_retired,retirement (used only in sensitivity check),Matsuyama CH,2025-11-03
+2025-2278|352|106397|133794,3-1 RET,E1_retired,retirement (used only in sensitivity check),Taipei CH,2025-11-03
+2025-3037|372|117359|212219,6-7(2) 6-3 3-2 RET,E1_retired,retirement (used only in sensitivity check),Brisbane 3 CH,2025-11-10
+2025-3037|370|105902|117357,6-0 3-2 RET,E1_retired,retirement (used only in sensitivity check),Brisbane 3 CH,2025-11-10
+2025-3037|339|206921|210553,W/O,E2_walkover,no played structure,Brisbane 3 CH,2025-11-10
+2025-0637|384|111578|105649,6-0 4-0 RET,E1_retired,retirement (used only in sensitivity check),Champaign CH,2025-11-10
+2025-0637|352|212160|134276,6-2 3-0 RET,E1_retired,retirement (used only in sensitivity check),Champaign CH,2025-11-10
+2025-7235|379|209874|111581,1-6 6-4 4-0 RET,E1_retired,retirement (used only in sensitivity check),Drummondville CH,2025-11-10
+2025-7235|340|208386|200366,6-7(6) 6-2 3-0 RET,E1_retired,retirement (used only in sensitivity check),Drummondville CH,2025-11-10
+2025-7397|380|111187|200647,7-6(3) 5-7 2-0 RET,E1_retired,retirement (used only in sensitivity check),Kobe CH,2025-11-10
+2025-7397|372|111200|126337,6-1 0-1 RET,E1_retired,retirement (used only in sensitivity check),Kobe CH,2025-11-10
+2025-7397|371|144817|106415,W/O,E2_walkover,no played structure,Kobe CH,2025-11-10
+2025-7397|358|111200|126106,6-2 6-7(4) 1-1 RET,E1_retired,retirement (used only in sensitivity check),Kobe CH,2025-11-10
+2025-2963|347|106281|202260,3-3 RET,E1_retired,retirement (used only in sensitivity check),Lyon CH,2025-11-10
+2025-0544|344|106380|134087,W/O,E2_walkover,no played structure,Montevideo CH,2025-11-10
+2025-0854|372|211514|210136,W/O,E2_walkover,no played structure,Bergamo CH,2025-11-17
+2025-0854|369|123983|208257,6-4 6-6 RET,E1_retired,retirement (used only in sensitivity check),Bergamo CH,2025-11-17
+2025-0854|357|211514|207171,2-1 RET,E1_retired,retirement (used only in sensitivity check),Bergamo CH,2025-11-17
+2025-9651|381|208361|106044,6-2 5-1 RET,E1_retired,retirement (used only in sensitivity check),Florianopolis CH,2025-11-17
+2025-9651|366|127123|122078,2-0 RET,E1_retired,retirement (used only in sensitivity check),Florianopolis CH,2025-11-17
+2025-7391|373|208223|106292,6-1 3-0 RET,E1_retired,retirement (used only in sensitivity check),Guayaquil CH,2025-11-17
+2025-7391|365|212051|208364,7-6(6) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Guayaquil CH,2025-11-17
+2025-7391|356|105334|214305,6-7(3) 6-2 4-0 RET,E1_retired,retirement (used only in sensitivity check),Guayaquil CH,2025-11-17
+2025-3039|364|211617|206325,4-6 6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Soma Bay CH,2025-11-17
+2025-3039|362|200457|207368,6-5 RET,E1_retired,retirement (used only in sensitivity check),Soma Bay CH,2025-11-17
+2025-3039|345|211758|213103,1-2 RET,E1_retired,retirement (used only in sensitivity check),Soma Bay CH,2025-11-17
+2025-2817|374|210470|134329,W/O,E2_walkover,no played structure,Sydney CH,2025-11-17
+2025-2817|367|208013|132052,2-0 RET,E1_retired,retirement (used only in sensitivity check),Sydney CH,2025-11-17
+2025-2817|359|211627|106071,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Sydney CH,2025-11-17
+2025-2817|347|210672|125804,6-7(5) 5-1 RET,E1_retired,retirement (used only in sensitivity check),Sydney CH,2025-11-17
+2025-6626|359|210744|111200,3-0 RET,E1_retired,retirement (used only in sensitivity check),Yokohama CH,2025-11-17
+2025-6626|337|126135|202154,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Yokohama CH,2025-11-17
+2025-3043|382|132744|212090,6-0 4-6 4-3 RET,E1_retired,retirement (used only in sensitivity check),Athens CH,2025-11-24
+2025-3043|379|209259|200484,4-0 RET,E1_retired,retirement (used only in sensitivity check),Athens CH,2025-11-24
+2025-3043|359|202475|213003,6-2 1-0 RET,E1_retired,retirement (used only in sensitivity check),Athens CH,2025-11-24
+2025-3043|356|207491|212203,7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Athens CH,2025-11-24
+2025-3043|344|202089|144747,6-2 1-2 RET,E1_retired,retirement (used only in sensitivity check),Athens CH,2025-11-24
+2025-3041|366|207202|122078,3-6 4-1 RET,E1_retired,retirement (used only in sensitivity check),Bogota CH,2025-11-24
+2025-3051|376|212059|212756,4-6 7-6(2) 5-0 RET,E1_retired,retirement (used only in sensitivity check),Islamabad CH,2025-11-24
+2025-3051|363|212756|208182,6-2 3-0 RET,E1_retired,retirement (used only in sensitivity check),Islamabad CH,2025-11-24
+2025-8312|374|105413|105841,6-4 3-4 RET,E1_retired,retirement (used only in sensitivity check),Maia CH,2025-11-24
+2025-8312|344|200330|210425,7-6(6) 4-3 RET,E1_retired,retirement (used only in sensitivity check),Maia CH,2025-11-24
+2025-8312|338|212749|134840,6-4 3-6 4-1 RET,E1_retired,retirement (used only in sensitivity check),Maia CH,2025-11-24
+2025-3045|367|209403|209951,4-6 6-2 3-1 RET,E1_retired,retirement (used only in sensitivity check),Manama 2 CH,2025-11-24
+2025-3045|349|206625|104729,3-6 6-5 RET,E1_retired,retirement (used only in sensitivity check),Manama 2 CH,2025-11-24
+2025-3045|348|126609|106348,3-1 RET,E1_retired,retirement (used only in sensitivity check),Manama 2 CH,2025-11-24
+2025-7586|374|209274|106186,6-3 3-1 RET,E1_retired,retirement (used only in sensitivity check),Playford CH,2025-11-24
+2025-7586|345|210672|125804,W/O,E2_walkover,no played structure,Playford CH,2025-11-24
+2025-2829|357|200366|134087,W/O,E2_walkover,no played structure,Temuco CH,2025-11-24
+2025-2829|352|214016|105156,5-4 RET,E1_retired,retirement (used only in sensitivity check),Temuco CH,2025-11-24
+2026-7393|383|212588|208021,6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Canberra CH,2026-01-05
+2026-7393|370|200240|105453,6-1 2-2 RET,E1_retired,retirement (used only in sensitivity check),Canberra CH,2026-01-05
+2026-7393|352|212588|209259,6-3 3-2 RET,E1_retired,retirement (used only in sensitivity check),Canberra CH,2026-01-05
+2026-2791|379|212082|105841,W/O,E2_walkover,no played structure,Nonthaburi 1 CH,2026-01-05
+2026-2205|375|106071|211767,6-4 3-6 4-1 RET,E1_retired,retirement (used only in sensitivity check),Noumea CH,2026-01-05
+2026-1210|375|207663|105180,6-2 3-1 RET,E1_retired,retirement (used only in sensitivity check),Buenos Aires 1 CH,2026-01-12
+2026-1210|372|122669|106203,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Buenos Aires 1 CH,2026-01-12
+2026-1210|370|144973|206589,5-7 7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Buenos Aires 1 CH,2026-01-12
+2026-1210|365|212784|206790,3-6 6-2 3-2 RET,E1_retired,retirement (used only in sensitivity check),Buenos Aires 1 CH,2026-01-12
+2026-1210|357|106203|105952,6-4 1-0 RET,E1_retired,retirement (used only in sensitivity check),Buenos Aires 1 CH,2026-01-12
+2026-1210|344|209254|212834,5-7 7-5 4-1 RET,E1_retired,retirement (used only in sensitivity check),Buenos Aires 1 CH,2026-01-12
+2026-1210|339|211636|207736,6-3 4-1 RET,E1_retired,retirement (used only in sensitivity check),Buenos Aires 1 CH,2026-01-12
+2026-7916|385|206889|105062,5-7 6-1 4-0 RET,E1_retired,retirement (used only in sensitivity check),Glasgow CH,2026-01-12
+2026-7916|363|202359|106393,6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Glasgow CH,2026-01-12
+2026-2795|378|200677|111576,2-2 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 2 CH,2026-01-12
+2026-2795|375|210382|209951,6-2 3-0 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 2 CH,2026-01-12
+2026-2795|361|207546|202475,4-6 7-5 2-0 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 2 CH,2026-01-12
+2026-2795|346|202113|117361,3-6 6-6 RET,E1_retired,retirement (used only in sensitivity check),Nonthaburi 2 CH,2026-01-12
+2026-3053|347|105156|209416,W/O,E2_walkover,no played structure,Itajai CH,2026-01-19
+2026-3053|345|207736|110774,W/O,E2_walkover,no played structure,Itajai CH,2026-01-19
+2026-3053|343|106262|105868,W/O,E2_walkover,no played structure,Itajai CH,2026-01-19
+2026-2831|379|200436|209857,6-3 3-1 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 1 CH,2026-01-19
+2026-2831|349|106187|106281,W/O,E2_walkover,no played structure,Oeiras 1 CH,2026-01-19
+2026-2831|340|111578|207669,6-3 5-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 1 CH,2026-01-19
+2026-3057|383|126952|208421,6-0 2-1 RET,E1_retired,retirement (used only in sensitivity check),Phan Thiet 1 CH,2026-01-19
+2026-3057|368|209850|212063,7-5 5-2 RET,E1_retired,retirement (used only in sensitivity check),Phan Thiet 1 CH,2026-01-19
+2026-3057|359|207608|129911,6-7(7) 7-6(5) 4-4 RET,E1_retired,retirement (used only in sensitivity check),Phan Thiet 1 CH,2026-01-19
+2026-3057|350|111202|122554,W/O,E2_walkover,no played structure,Phan Thiet 1 CH,2026-01-19
+2026-3057|337|200666|200550,6-2 3-0 RET,E1_retired,retirement (used only in sensitivity check),Phan Thiet 1 CH,2026-01-19
+2026-3055|385|144750|209957,6-1 5-2 RET,E1_retired,retirement (used only in sensitivity check),Soma Bay CH,2026-01-19
+2026-3055|356|212082|109303,3-6 7-6(0) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Soma Bay CH,2026-01-19
+2026-3055|339|209898|211756,6-2 2-1 RET,E1_retired,retirement (used only in sensitivity check),Soma Bay CH,2026-01-19
+2026-2833|378|208210|208426,W/O,E2_walkover,no played structure,Oeiras 2 CH,2026-01-26
+2026-2833|370|208210|209284,6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 2 CH,2026-01-26
+2026-2833|344|200014|209406,7-6(10) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 2 CH,2026-01-26
+2026-3059|383|212044|207415,7-6(3) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Phan Thiet 2 CH,2026-01-26
+2026-3059|371|202147|200309,6-2 1-0 RET,E1_retired,retirement (used only in sensitivity check),Phan Thiet 2 CH,2026-01-26
+2026-3059|369|200321|122554,6-3 3-6 2-1 RET,E1_retired,retirement (used only in sensitivity check),Phan Thiet 2 CH,2026-01-26
+2026-3059|357|117357|208421,3-4 RET,E1_retired,retirement (used only in sensitivity check),Phan Thiet 2 CH,2026-01-26
+2026-9452|354|207815|207736,6-1 3-0 RET,E1_retired,retirement (used only in sensitivity check),Concepcion CH,2026-01-27
+2026-9635|341|207368|208216,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Manama CH,2026-01-27
+2026-6239|379|200329|111456,4-1 RET,E1_retired,retirement (used only in sensitivity check),Quimper CH,2026-01-27
+2026-2967|367|208013|210034,3-2 RET,E1_retired,retirement (used only in sensitivity check),Brisbane 1 CH,2026-02-02
+2026-3061|368|200713|213356,3-6 6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Cesenatico CH,2026-02-02
+2026-9154|352|207993|126177,6-2 2-1 RET,E1_retired,retirement (used only in sensitivity check),Cleveland CH,2026-02-02
+2026-3077|363|200452|200346,3-6 5-5 RET,E1_retired,retirement (used only in sensitivity check),Koblenz CH,2026-02-02
+2026-3077|359|202239|208902,6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Koblenz CH,2026-02-02
+2026-2965|363|202358|106292,6-1 2-0 RET,E1_retired,retirement (used only in sensitivity check),Rosario CH,2026-02-02
+2026-9623|374|200266|111581,7-6(1) 3-3 RET,E1_retired,retirement (used only in sensitivity check),Tenerife 1 CH,2026-02-02
+2026-9623|349|149267|207547,4-6 6-4 3-0 RET,E1_retired,retirement (used only in sensitivity check),Tenerife 1 CH,2026-02-02
+2026-3063|379|200748|211711,W/O,E2_walkover,no played structure,Baton Rouge CH,2026-02-09
+2026-2969|373|106109|117357,6-2 4-1 RET,E1_retired,retirement (used only in sensitivity check),Brisbane 2 CH,2026-02-09
+2026-2969|346|202354|202334,1-0 RET,E1_retired,retirement (used only in sensitivity check),Brisbane 2 CH,2026-02-09
+2026-7849|358|106187|202147,5-7 6-4 3-2 RET,E1_retired,retirement (used only in sensitivity check),Chennai CH,2026-02-09
+2026-7849|356|212077|133794,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Chennai CH,2026-02-09
+2026-7849|349|207183|207996,7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Chennai CH,2026-02-09
+2026-7849|348|200036|105031,W/O,E2_walkover,no played structure,Chennai CH,2026-02-09
+2026-9162|367|209414|200303,6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Pau CH,2026-02-09
+2026-9162|364|127760|200385,5-2 RET,E1_retired,retirement (used only in sensitivity check),Pau CH,2026-02-09
+2026-9162|356|206750|210136,6-3 4-3 RET,E1_retired,retirement (used only in sensitivity check),Pau CH,2026-02-09
+2026-9162|349|200452|209322,W/O,E2_walkover,no played structure,Pau CH,2026-02-09
+2026-2839|367|210017|105841,6-4 2-0 RET,E1_retired,retirement (used only in sensitivity check),Tenerife 2 CH,2026-02-09
+2026-2839|363|208279|207785,4-6 6-2 2-0 RET,E1_retired,retirement (used only in sensitivity check),Tenerife 2 CH,2026-02-09
+2026-7874|371|212021|209209,6-1 1-1 RET,E1_retired,retirement (used only in sensitivity check),Lille CH,2026-02-16
+2026-7874|349|209952|208210,W/O,E2_walkover,no played structure,Lille CH,2026-02-16
+2026-3075|372|127339|202346,6-3 4-2 RET,E1_retired,retirement (used only in sensitivity check),Metepec CH,2026-02-16
+2026-3075|368|208372|101495,6-2 4-3 RET,E1_retired,retirement (used only in sensitivity check),Metepec CH,2026-02-16
+2026-3075|360|200366|202297,7-5 0-0 RET,E1_retired,retirement (used only in sensitivity check),Metepec CH,2026-02-16
+2026-6961|349|208240|132573,W/O,E2_walkover,no played structure,New Delhi CH,2026-02-16
+2026-9678|359|144821|210377,6-3 4-1 RET,E1_retired,retirement (used only in sensitivity check),Tigre CH,2026-02-16
+2026-9678|346|207502|209330,6-3 2-0 RET,E1_retired,retirement (used only in sensitivity check),Tigre CH,2026-02-16
+2026-9516|356|144817|209916,2-6 6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Lugano CH,2026-02-23
+2026-7100|378|211768|125802,6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Pune CH,2026-02-23
+2026-7100|373|209874|200610,W/O,E2_walkover,no played structure,Pune CH,2026-02-23
+2026-7100|372|210220|126555,6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Pune CH,2026-02-23
+2026-1796|371|200384|105062,W/O,E2_walkover,no played structure,St. Brieuc CH,2026-02-23
+2026-1796|356|105062|207785,1-0 RET,E1_retired,retirement (used only in sensitivity check),St. Brieuc CH,2026-02-23
+2026-9695|377|122669|212051,6-7(4) 6-2 2-0 RET,E1_retired,retirement (used only in sensitivity check),Tigre 2 CH,2026-02-23
+2026-9695|370|212309|209911,6-4 2-0 RET,E1_retired,retirement (used only in sensitivity check),Tigre 2 CH,2026-02-23
+2026-9695|346|210377|210218,4-0 RET,E1_retired,retirement (used only in sensitivity check),Tigre 2 CH,2026-02-23
+2026-9695|339|211658|105700,3-0 RET,E1_retired,retirement (used only in sensitivity check),Tigre 2 CH,2026-02-23
+2026-2983|366|209903|213635,6-1 3-0 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 1 CH,2026-03-02
+2026-2983|355|208852|212077,4-6 7-5 3-1 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 1 CH,2026-03-02
+2026-2913|380|106065|208843,6-7(6) 3-3 RET,E1_retired,retirement (used only in sensitivity check),Kigali 1 CH,2026-03-02
+2026-2913|372|109303|210053,1-6 7-6(5) 3-2 RET,E1_retired,retirement (used only in sensitivity check),Kigali 1 CH,2026-03-02
+2026-2973|377|213608|206748,6-1 1-0 RET,E1_retired,retirement (used only in sensitivity check),Thionville CH,2026-03-02
+2026-2973|370|200384|206750,6-3 4-2 RET,E1_retired,retirement (used only in sensitivity check),Thionville CH,2026-03-02
+2026-2973|364|200514|126409,6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Thionville CH,2026-03-02
+2026-2973|362|200259|133297,6-7(5) 6-2 3-0 RET,E1_retired,retirement (used only in sensitivity check),Thionville CH,2026-03-02
+2026-0398|341|202346|210348,5-2 RET,E1_retired,retirement (used only in sensitivity check),Cherbourg CH,2026-03-09
+2026-2985|360|209406|200266,6-2 4-2 RET,E1_retired,retirement (used only in sensitivity check),Hersonissos 2 CH,2026-03-09
+2026-2915|371|210338|209952,6-1 0-0 RET,E1_retired,retirement (used only in sensitivity check),Kigali 2 CH,2026-03-09
+2026-2915|353|210398|133872,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Kigali 2 CH,2026-03-09
+2026-2915|342|207764|144925,3-0 RET,E1_retired,retirement (used only in sensitivity check),Kigali 2 CH,2026-03-09
+2026-3406|373|210012|144973,7-5 4-0 RET,E1_retired,retirement (used only in sensitivity check),Santiago CH,2026-03-09
+2026-3406|364|144821|208361,3-6 6-3 4-0 RET,E1_retired,retirement (used only in sensitivity check),Santiago CH,2026-03-09
+2026-3406|363|105911|209875,6-0 5-2 RET,E1_retired,retirement (used only in sensitivity check),Santiago CH,2026-03-09
+2026-3406|354|212603|207815,7-5 2-0 RET,E1_retired,retirement (used only in sensitivity check),Santiago CH,2026-03-09
+2026-9167|377|105932|209070,W/O,E2_walkover,no played structure,Phoenix CH,2026-03-10
+2026-9167|350|111515|111200,4-4 RET,E1_retired,retirement (used only in sensitivity check),Phoenix CH,2026-03-10
+2026-2909|369|208364|105911,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Asuncion CH,2026-03-16
+2026-2909|361|210377|144973,3-6 6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Asuncion CH,2026-03-16
+2026-2909|354|209254|207736,2-6 6-3 2-0 RET,E1_retired,retirement (used only in sensitivity check),Asuncion CH,2026-03-16
+2026-2909|352|212785|106262,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Asuncion CH,2026-03-16
+2026-6963|373|210202|211325,6-1 0-0 RET,E1_retired,retirement (used only in sensitivity check),Cuernavaca CH,2026-03-16
+2026-6963|347|126581|205842,7-6(3) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Cuernavaca CH,2026-03-16
+2026-9472|385|105882|210338,2-1 RET,E1_retired,retirement (used only in sensitivity check),Zadar CH,2026-03-16
+2026-9472|381|105882|144684,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Zadar CH,2026-03-16
+2026-9472|365|202260|207502,6-4 5-3 RET,E1_retired,retirement (used only in sensitivity check),Zadar CH,2026-03-16
+2026-2955|368|144750|123809,6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Alicante CH,2026-03-23
+2026-2955|340|134840|208322,6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Alicante CH,2026-03-23
+2026-5016|384|207815|208364,6-2 3-1 RET,E1_retired,retirement (used only in sensitivity check),Bucaramanga CH,2026-03-23
+2026-5016|351|212603|208132,2-2 RET,E1_retired,retirement (used only in sensitivity check),Bucaramanga CH,2026-03-23
+2026-5016|350|210507|208372,7-6(2) 0-1 RET,E1_retired,retirement (used only in sensitivity check),Bucaramanga CH,2026-03-23
+2026-5016|348|208411|122081,7-6(4) 4-6 3-0 RET,E1_retired,retirement (used only in sensitivity check),Bucaramanga CH,2026-03-23
+2026-2991|381|200711|208210,4-0 RET,E1_retired,retirement (used only in sensitivity check),Morelia CH,2026-03-23
+2026-2991|343|213784|208586,2-1 RET,E1_retired,retirement (used only in sensitivity check),Morelia CH,2026-03-23
+2026-2911|342|122554|206749,6-1 2-0 RET,E1_retired,retirement (used only in sensitivity check),Naples CH,2026-03-23
+2026-3071|380|208882|209875,6-1 3-1 RET,E1_retired,retirement (used only in sensitivity check),Sao Paulo CH,2026-03-23
+2026-3071|378|207182|144973,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Sao Paulo CH,2026-03-23
+2026-3071|376|144642|106329,6-6 RET,E1_retired,retirement (used only in sensitivity check),Sao Paulo CH,2026-03-23
+2026-3071|360|200495|211533,5-2 RET,E1_retired,retirement (used only in sensitivity check),Sao Paulo CH,2026-03-23
+2026-3071|354|210214|131951,W/O,E2_walkover,no played structure,Sao Paulo CH,2026-03-23
+2026-8388|382|209890|212063,4-1 RET,E1_retired,retirement (used only in sensitivity check),Split CH,2026-03-23
+2026-8268|379|211627|126952,4-6 6-2 4-2 RET,E1_retired,retirement (used only in sensitivity check),Yokkaichi CH,2026-03-23
+2026-8268|347|207998|210034,6-4 1-0 RET,E1_retired,retirement (used only in sensitivity check),Yokkaichi CH,2026-03-23
+2026-2987|361|209898|123921,6-0 0-0 RET,E1_retired,retirement (used only in sensitivity check),Menorca CH,2026-03-30
+2026-2987|356|200188|206325,2-4 RET,E1_retired,retirement (used only in sensitivity check),Menorca CH,2026-03-30
+2026-2987|355|134840|124116,6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Menorca CH,2026-03-30
+2026-3073|381|134329|212207,2-6 2-1 RET,E1_retired,retirement (used only in sensitivity check),Miyazaki CH,2026-03-30
+2026-3073|378|210318|212639,6-1 3-2 RET,E1_retired,retirement (used only in sensitivity check),Miyazaki CH,2026-03-30
+2026-3073|340|209274|210121,6-3 1-0 RET,E1_retired,retirement (used only in sensitivity check),Miyazaki CH,2026-03-30
+2026-3073|338|211550|202356,5-4 RET,E1_retired,retirement (used only in sensitivity check),Miyazaki CH,2026-03-30
+2026-2821|374|210412|200335,2-6 6-3 2-0 RET,E1_retired,retirement (used only in sensitivity check),Sao Leopoldo CH,2026-03-30
+2026-2821|362|200335|212051,3-6 6-0 2-0 RET,E1_retired,retirement (used only in sensitivity check),Sao Leopoldo CH,2026-03-30
+2026-2821|357|208913|200374,5-7 6-2 2-0 RET,E1_retired,retirement (used only in sensitivity check),Sao Leopoldo CH,2026-03-30
+2026-6307|377|106292|207680,5-2 RET,E1_retired,retirement (used only in sensitivity check),Campinas CH,2026-04-06
+2026-6307|346|208372|126183,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Campinas CH,2026-04-06
+2026-9687|362|111797|207732,6-1 0-0 RET,E1_retired,retirement (used only in sensitivity check),Madrid CH,2026-04-06
+2026-9687|350|106177|209406,4-6 6-1 3-0 RET,E1_retired,retirement (used only in sensitivity check),Madrid CH,2026-04-06
+2026-9687|337|211754|122352,6-4 1-0 RET,E1_retired,retirement (used only in sensitivity check),Madrid CH,2026-04-06
+2026-8375|339|207202|127123,6-3 4-1 RET,E1_retired,retirement (used only in sensitivity check),Mexico City CH,2026-04-06
+2026-5069|379|207969|210460,5-7 6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Sarasota CH,2026-04-06
+2026-5069|363|210464|144870,6-3 1-1 RET,E1_retired,retirement (used only in sensitivity check),Sarasota CH,2026-04-06
+2026-5069|353|208143|210242,5-1 RET,E1_retired,retirement (used only in sensitivity check),Sarasota CH,2026-04-06
+2026-5069|337|208586|209910,6-4 2-2 RET,E1_retired,retirement (used only in sensitivity check),Sarasota CH,2026-04-06
+2026-3079|363|202400|106034,6-3 4-3 RET,E1_retired,retirement (used only in sensitivity check),Wuning 1 CH,2026-04-06
+2026-3079|360|207993|134329,7-6(5) 2-2 RET,E1_retired,retirement (used only in sensitivity check),Wuning 1 CH,2026-04-06
+2026-1741|384|209857|106281,7-6(3) 2-3 RET,E1_retired,retirement (used only in sensitivity check),Busan CH,2026-04-13
+2026-1741|375|209857|200303,7-6(7) 5-2 RET,E1_retired,retirement (used only in sensitivity check),Busan CH,2026-04-13
+2026-1741|364|200303|212044,6-1 2-0 RET,E1_retired,retirement (used only in sensitivity check),Busan CH,2026-04-13
+2026-1741|342|106121|117353,6-1 3-0 RET,E1_retired,retirement (used only in sensitivity check),Busan CH,2026-04-13
+2026-9514|374|210262|111797,W/O,E2_walkover,no played structure,Oeiras 3 CH,2026-04-13
+2026-9514|360|126128|208269,4-6 7-6(5) 3-1 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 3 CH,2026-04-13
+2026-9479|380|207130|208293,6-0 2-0 RET,E1_retired,retirement (used only in sensitivity check),Santa Cruz de la Sierra CH,2026-04-13
+2026-9479|366|106057|122669,7-5 3-1 RET,E1_retired,retirement (used only in sensitivity check),Santa Cruz de la Sierra CH,2026-04-13
+2026-0692|385|202127|206307,6-4 1-0 RET,E1_retired,retirement (used only in sensitivity check),Tallahassee CH,2026-04-13
+2026-0692|363|213605|209903,3-6 6-4 4-0 RET,E1_retired,retirement (used only in sensitivity check),Tallahassee CH,2026-04-13
+2026-0692|362|202127|209849,6-1 3-0 RET,E1_retired,retirement (used only in sensitivity check),Tallahassee CH,2026-04-13
+2026-2995|373|211558|206703,7-5 4-6 5-0 RET,E1_retired,retirement (used only in sensitivity check),Abidjan 1 CH,2026-04-20
+2026-2995|362|144970|126107,6-1 0-0 RET,E1_retired,retirement (used only in sensitivity check),Abidjan 1 CH,2026-04-20
+2026-2995|360|211558|105814,4-3 RET,E1_retired,retirement (used only in sensitivity check),Abidjan 1 CH,2026-04-20
+2026-7490|384|200416|209857,4-3 RET,E1_retired,retirement (used only in sensitivity check),Gwangju CH,2026-04-20
+2026-7490|369|202122|106034,6-7(2) 7-5 0-0 RET,E1_retired,retirement (used only in sensitivity check),Gwangju CH,2026-04-20
+2026-7490|357|200318|209326,6-3 4-3 RET,E1_retired,retirement (used only in sensitivity check),Gwangju CH,2026-04-20
+2026-7490|340|200452|208389,7-5 3-0 RET,E1_retired,retirement (used only in sensitivity check),Gwangju CH,2026-04-20
+2026-5067|359|207969|144870,6-0 2-0 RET,E1_retired,retirement (used only in sensitivity check),Savannah CH,2026-04-20
+2026-5067|356|208364|111581,6-1 3-1 RET,E1_retired,retirement (used only in sensitivity check),Savannah CH,2026-04-20
+2026-7736|376|125847|123809,7-5 4-2 RET,E1_retired,retirement (used only in sensitivity check),Shymkent 1 CH,2026-04-20
+2026-2997|384|111581|208253,6-7(6) 6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Abidjan 2 CH,2026-04-27
+2026-2997|364|209080|210107,4-3 RET,E1_retired,retirement (used only in sensitivity check),Abidjan 2 CH,2026-04-27
+2026-2997|362|208253|207794,6-2 4-2 RET,E1_retired,retirement (used only in sensitivity check),Abidjan 2 CH,2026-04-27
+2026-2997|341|211667|105814,1-4 RET,E1_retired,retirement (used only in sensitivity check),Abidjan 2 CH,2026-04-27
+2026-1797|352|209338|206589,7-6(7) 1-0 RET,E1_retired,retirement (used only in sensitivity check),Ostrava CH,2026-04-27
+2026-9192|360|210119|210425,6-0 2-0 RET,E1_retired,retirement (used only in sensitivity check),Shymkent 2 CH,2026-04-27
+2026-9192|339|207664|208003,6-4 2-0 RET,E1_retired,retirement (used only in sensitivity check),Shymkent 2 CH,2026-04-27
+2026-7009|350|209512|106362,3-6 6-4 4-2 RET,E1_retired,retirement (used only in sensitivity check),Aix-en-Provence CH,2026-04-28
+2026-2861|369|207182|106000,6-4 3-0 RET,E1_retired,retirement (used only in sensitivity check),Cagliari CH,2026-04-28
+2026-2861|356|206553|104905,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Cagliari CH,2026-04-28
+2026-2961|382|202326|210000,7-6(5) 1-0 RET,E1_retired,retirement (used only in sensitivity check),Brazzaville CH,2026-05-04
+2026-2961|380|207231|109734,6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Brazzaville CH,2026-05-04
+2026-2961|379|209204|126107,7-6(8) 2-1 RET,E1_retired,retirement (used only in sensitivity check),Brazzaville CH,2026-05-04
+2026-2961|368|209204|144747,6-1 1-0 RET,E1_retired,retirement (used only in sensitivity check),Brazzaville CH,2026-05-04
+2026-2961|366|210063|210107,6-1 3-1 RET,E1_retired,retirement (used only in sensitivity check),Brazzaville CH,2026-05-04
+2026-2961|362|209080|122081,2-3 RET,E1_retired,retirement (used only in sensitivity check),Brazzaville CH,2026-05-04
+2026-2961|354|122081|213184,6-2 3-1 RET,E1_retired,retirement (used only in sensitivity check),Brazzaville CH,2026-05-04
+2026-2923|376|123961|200572,4-6 6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Santos CH,2026-05-04
+2026-2921|350|212207|129911,W/O,E2_walkover,no played structure,Wuxi CH,2026-05-04
+2026-2921|344|132573|126165,6-4 3-0 RET,E1_retired,retirement (used only in sensitivity check),Wuxi CH,2026-05-04
+2026-3107|376|200176|202400,6-4 3-2 RET,E1_retired,retirement (used only in sensitivity check),Bengaluru 2 CH,2026-05-11
+2026-2981|371|207815|202271,6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Cordoba CH,2026-05-11
+2026-2981|366|207799|106292,6-3 4-2 RET,E1_retired,retirement (used only in sensitivity check),Cordoba CH,2026-05-11
+2026-2981|360|207736|122669,4-3 RET,E1_retired,retirement (used only in sensitivity check),Cordoba CH,2026-05-11
+2026-2981|358|212830|208078,4-6 6-2 4-3 RET,E1_retired,retirement (used only in sensitivity check),Cordoba CH,2026-05-11
+2026-2981|350|207736|138485,4-6 6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Cordoba CH,2026-05-11
+2026-2981|342|212864|202275,W/O,E2_walkover,no played structure,Cordoba CH,2026-05-11
+2026-9475|385|111513|106198,2-2 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 4 CH,2026-05-11
+2026-9475|383|106198|133975,7-5 5-3 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 4 CH,2026-05-11
+2026-9475|357|211500|105671,6-2 3-6 0-0 RET,E1_retired,retirement (used only in sensitivity check),Oeiras 4 CH,2026-05-11
+2026-1541|384|207729|106362,6-2 4-1 RET,E1_retired,retirement (used only in sensitivity check),Tunis CH,2026-05-11
+2026-1541|371|207729|144826,7-5 4-6 4-0 RET,E1_retired,retirement (used only in sensitivity check),Tunis CH,2026-05-11
+2026-1541|365|208540|209875,1-6 7-6(3) 4-0 RET,E1_retired,retirement (used only in sensitivity check),Tunis CH,2026-05-11
+2026-1541|355|106362|133872,2-6 0-0 RET,E1_retired,retirement (used only in sensitivity check),Tunis CH,2026-05-11
+2026-1541|352|208540|210558,7-5 1-0 RET,E1_retired,retirement (used only in sensitivity check),Tunis CH,2026-05-11
+2026-9500|364|212960|106423,W/O,E2_walkover,no played structure,Zagreb CH,2026-05-11
+2026-9500|357|210537|208223,6-2 3-4 RET,E1_retired,retirement (used only in sensitivity check),Zagreb CH,2026-05-11
+2026-9500|353|208502|207785,4-1 RET,E1_retired,retirement (used only in sensitivity check),Zagreb CH,2026-05-11
+2026-3824|376|111460|122298,6-1 2-0 RET,E1_retired,retirement (used only in sensitivity check),Bordeaux CH,2026-05-12
+2026-3824|374|209920|207686,7-6(5) 4-0 RET,E1_retired,retirement (used only in sensitivity check),Bordeaux CH,2026-05-12
+2026-2823|379|144719|105807,W/O,E2_walkover,no played structure,Valencia CH,2026-05-12
+2026-3105|361|207760|212030,6-7(5) 6-3 1-1 RET,E1_retired,retirement (used only in sensitivity check),Istanbul TTF CH,2026-05-18
+2026-3105|339|212903|208297,6-2 5-5 RET,E1_retired,retirement (used only in sensitivity check),Istanbul TTF CH,2026-05-18
+2026-3087|360|211409|210000,7-6(4) 4-1 RET,E1_retired,retirement (used only in sensitivity check),Centurion 1 CH,2026-05-25
+2026-2993|372|208852|208025,7-6(2) 2-0 RET,E1_retired,retirement (used only in sensitivity check),Chisinau CH,2026-05-25
+2026-2993|368|105430|126125,6-3 0-0 RET,E1_retired,retirement (used only in sensitivity check),Chisinau CH,2026-05-25
+2026-2993|352|105180|209910,6-4 0-0 RET,E1_retired,retirement (used only in sensitivity check),Chisinau CH,2026-05-25
+2026-2993|345|209910|106220,W/O,E2_walkover,no played structure,Chisinau CH,2026-05-25
+2026-3097|374|207231|207969,7-6(4) 4-1 RET,E1_retired,retirement (used only in sensitivity check),Kosice CH,2026-05-25
+2026-9188|378|210318|212174,7-6(6) 3-1 RET,E1_retired,retirement (used only in sensitivity check),Little Rock CH,2026-05-25
+2026-9188|365|212251|126555,3-6 7-6(3) 1-0 RET,E1_retired,retirement (used only in sensitivity check),Little Rock CH,2026-05-25
+2026-7015|350|209264|206467,7-6(7) 0-0 RET,E1_retired,retirement (used only in sensitivity check),Vicenza CH,2026-05-25
+2026-7015|346|209354|209385,W/O,E2_walkover,no played structure,Vicenza CH,2026-05-25
+2026-7015|344|209983|212071,5-3 RET,E1_retired,retirement (used only in sensitivity check),Vicenza CH,2026-05-25
+2026-4940|373|202261|126846,W/O,E2_walkover,no played structure,Birmingham CH,2026-06-01
+2026-3089|355|210513|109303,6-7(5) 7-6(2) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Centurion 2 CH,2026-06-01
+2026-0460|385|207182|210053,W/O,E2_walkover,no played structure,Heilbronn CH,2026-06-01
+2026-0460|353|207704|126183,W/O,E2_walkover,no played structure,Heilbronn CH,2026-06-01
+2026-9001|378|106065|208316,6-3 3-0 RET,E1_retired,retirement (used only in sensitivity check),Perugia CH,2026-06-01
+2026-9001|359|210017|211533,6-2 0-0 RET,E1_retired,retirement (used only in sensitivity check),Perugia CH,2026-06-01
+2026-0558|368|208046|133297,1-6 7-6(5) 3-0 RET,E1_retired,retirement (used only in sensitivity check),Prostejov CH,2026-06-01
+2026-0558|343|200366|210556,6-2 2-6 5-2 RET,E1_retired,retirement (used only in sensitivity check),Prostejov CH,2026-06-01

@@ -1,0 +1,13 @@
+field,available_n,missing_n,in_frame_n,completeness_pct,note
+score,25378,15,25393,99.94,15 records lack a score string entirely
+minutes,25160,233,25393,99.08,by season 2024 98.70% / 2025 99.26% / 2026 99.44%
+w_svpt,25316,77,25393,99.70,match-level total only; no set breakdown
+w_1stIn,25316,77,25393,99.70,match-level total only
+w_ace,25316,77,25393,99.70,match-level total only
+w_bpSaved,25316,77,25393,99.70,match-level total only
+winner_rank,25209,184,25393,99.28,date-matched ranking; not used for adjustment in this study
+surface,25393,0,25393,100.00,
+best_of,25393,0,25393,100.00,all records are best-of-3
+round,25393,0,25393,100.00,
+set_level_serve_stats,0,25393,25393,0.00,NOT AVAILABLE IN SOURCE - filters 7 and 8 unavailable
+indoor_outdoor,0,25393,25393,0.00,NOT AVAILABLE IN SOURCE

@@ -1,0 +1,17 @@
+stage,n
+candidate rows,28564
+excluded: not level C,3171
+excluded: not best-of-3,0
+excluded: surface,0
+excluded: bad date,0
+excluded: outside window,0
+excluded: empty score,15
+excluded: duplicate id,0
+in-frame records,25378
+excluded E1 retirement,941
+excluded E2 walkover,139
+excluded E3 default,4
+excluded E4 abandoned,0
+excluded E5 match tiebreak,0
+excluded E6 unparsed,2
+ELIGIBLE COMPLETED MATCHES,24292

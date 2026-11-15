@@ -1,0 +1,4 @@
+measure,numerator,denominator,rate,ci95
+P(3 sets | set1 was a tiebreak),659,2889,22.8%,21.3-24.4%
+P(3 sets | set1 was NOT a tiebreak),7583,21403,35.4%,34.8-36.1%
+P(set1 was a tiebreak | 3 sets)  [inverse direction],659,8242,8.0%,7.4-8.6%

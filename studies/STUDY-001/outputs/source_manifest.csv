@@ -1,0 +1,4 @@
+file,url,sha256,bytes,retrieved_at_utc,source_tier
+atp_matches_qual_chall_2024.csv,https://api.github.com/repos/Aneeshers/tennis-sackmann-archive/contents/atp/atp_matches_qual_chall_2024.csv?ref=main,714347e68ce3436e9009be1f999d0130e09eb74d5cded4ebd97974fce3e0ba6f,2316734,2026-11-15,3-4 (specialist database mirror; not official tour records)
+atp_matches_qual_chall_2025.csv,https://api.github.com/repos/Aneeshers/tennis-sackmann-archive/contents/atp/atp_matches_qual_chall_2025.csv?ref=main,7690c576689d9cafc28d1b9f3293173e87220573db5fd2c47e3097f2ab505ec0,2405489,2026-11-15,3-4 (specialist database mirror; not official tour records)
+atp_matches_qual_chall_2026.csv,https://api.github.com/repos/Aneeshers/tennis-sackmann-archive/contents/atp/atp_matches_qual_chall_2026.csv?ref=main,40714449f1cb565033e038f38b7a868cefb601861e9d1e9b48c026a5d12ec67d,1189359,2026-11-15,3-4 (specialist database mirror; not official tour records)

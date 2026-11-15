@@ -5,3 +5,5 @@ __pycache__/
 *.csv
 !Set-Structure-Research-v1/Set-Structure-Research/templates/*.csv
 !Set-Structure-Research-v1/Set-Structure-Research/audits/artifacts/*.csv
+# STUDY-001 aggregate outputs are derived aggregates, not redistributed raw rows.
+!studies/*/outputs/*.csv

@@ -1,0 +1,4 @@
+measure,numerator,denominator,rate,ci95
+set1 winner won match,20037,24292,82.5%,82.0-83.0%
+set1 loser won match (comeback),4255,24292,17.5%,17.0-18.0%
+set1 was a tiebreak,2889,24292,11.9%,11.5-12.3%
