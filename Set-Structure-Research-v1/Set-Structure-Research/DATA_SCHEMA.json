@@ -1,0 +1,382 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Set Structure Research Match Record",
+  "type": "object",
+  "required": [
+    "match_id",
+    "match_date",
+    "discipline",
+    "surface",
+    "match_format",
+    "status",
+    "players",
+    "sets",
+    "sources"
+  ],
+  "properties": {
+    "match_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "match_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "discipline": {
+      "enum": [
+        "singles",
+        "doubles",
+        "mixed",
+        "other"
+      ]
+    },
+    "surface": {
+      "enum": [
+        "clay",
+        "hard",
+        "grass",
+        "carpet",
+        "unknown"
+      ]
+    },
+    "indoor_outdoor": {
+      "enum": [
+        "indoor",
+        "outdoor",
+        "unknown"
+      ]
+    },
+    "match_format": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "completed",
+        "retired",
+        "walkover",
+        "default",
+        "abandoned",
+        "unknown"
+      ]
+    },
+    "winner_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "players": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "name"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "handedness": {
+            "enum": [
+              "left",
+              "right",
+              "unknown"
+            ]
+          },
+          "historical_ranking": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 1
+          },
+          "ranking_as_of": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date"
+          }
+        }
+      }
+    },
+    "sets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "set_index",
+          "games",
+          "is_match_tiebreak"
+        ],
+        "properties": {
+          "set_index": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "games": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": {
+              "type": [
+                "integer",
+                "null"
+              ],
+              "minimum": 0
+            }
+          },
+          "set_winner_id": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "tiebreak_played": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "tiebreak_score": {
+            "type": [
+              "array",
+              "null"
+            ],
+            "minItems": 2,
+            "maxItems": 2,
+            "items": {
+              "type": "integer",
+              "minimum": 0
+            }
+          },
+          "is_match_tiebreak": {
+            "type": "boolean"
+          },
+          "duration_minutes": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "status": {
+            "enum": [
+              "completed",
+              "retired",
+              "abandoned",
+              "unknown"
+            ]
+          }
+        }
+      }
+    },
+    "player_set_stats": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "player_id",
+          "set_index"
+        ],
+        "properties": {
+          "player_id": {
+            "type": "string"
+          },
+          "set_index": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "service_points": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "first_serves_in": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "first_serve_points_won": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "second_serve_points_won": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "aces": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "double_faults": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "service_games": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "service_games_won": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "break_points_faced": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "break_points_saved": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "return_points": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "first_serve_return_points_won": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "second_serve_return_points_won": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "return_games": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "return_games_won": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "break_points_earned": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "break_points_converted": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          }
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "retrieved_at",
+          "verification_status"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "url": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "uri"
+          },
+          "record_id": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "retrieved_at": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "extraction_method": {
+            "enum": [
+              "manual",
+              "api",
+              "export",
+              "other"
+            ]
+          },
+          "verification_status": {
+            "enum": [
+              "unverified",
+              "single_source",
+              "cross_checked",
+              "corrected"
+            ]
+          },
+          "notes": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "additionalProperties": false
+}
