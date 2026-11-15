@@ -1,23 +1,3 @@
 # Study Specification
-- Study ID:
-- Protocol version:
-- Date created:
-- Research question:
-- Target population:
-- Tour/level:
-- Discipline:
-- Date range:
-- Surface:
-- Indoor/outdoor:
-- Match format:
-- Main draw/qualifying:
-- Status inclusion rules:
-- Primary outcomes:
-- Secondary outcomes:
-- Ten-filter plan:
-- Data sources:
-- Extraction cutoff:
-- Statistical methods:
-- Sensitivity analyses:
-- Known limitations:
-- Protocol amendments:
+
+This research-study template is no longer required. Use [`PLAYER_ANALYSIS_GUIDE.md`](../../../PLAYER_ANALYSIS_GUIDE.md) for the current player-matchup workflow and concise report format.
